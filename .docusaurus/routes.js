@@ -108,8 +108,8 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/indeold',
+    component: ComponentCreator('/indeold', '99c'),
     exact: true
   },
   {

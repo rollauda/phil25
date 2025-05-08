@@ -70,7 +70,8 @@
       "facebook",
       "hello",
       "docusaurus"
-    ]
+    ],
+    "publish": false
   },
   "unlisted": false,
   "nextItem": {
