@@ -71,7 +71,7 @@
       "hello",
       "docusaurus"
     ],
-    "publish": false
+    "draft": true
   },
   "unlisted": false,
   "nextItem": {

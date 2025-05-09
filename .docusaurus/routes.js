@@ -108,6 +108,11 @@ export default [
     exact: true
   },
   {
+    path: '/helloReact',
+    component: ComponentCreator('/helloReact', '77a'),
+    exact: true
+  },
+  {
     path: '/indeold',
     component: ComponentCreator('/indeold', '99c'),
     exact: true
