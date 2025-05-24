@@ -12,10 +12,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Philosophie Tronc Commun',
   tagline: 'Rolland Auda, La Condamine, Quito, 2025-2026',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/philo.svg',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://phil25.rauda.fr',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -70,6 +70,27 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'manuel',
+        path: 'manuel',
+        routeBasePath: 'manuel',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'methode',
+        path: 'methode',
+        routeBasePath: 'methode',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -78,8 +99,8 @@ const config = {
       navbar: {
         title: 'philoconda',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'philo',
+          src: 'img/philosophy.svg',
         },
         items: [
           {
@@ -88,10 +109,21 @@ const config = {
             position: 'left',
             label: 'Leçons',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            to: '/methode/intro', // Pointe vers le fichier intro.md
+            label: 'Methode', 
+            position: 'left',
+            activeBaseRegex: `/methode/`, // Pour mettre en surbrillance l'élément actif
+          },
+          {
+            to: '/manuel/intro', // Pointe vers le fichier intro.md
+            label: 'Manuel', 
+            position: 'left',
+            activeBaseRegex: `/manuel/`, // Pour mettre en surbrillance l'élément actif
+          },
+          {
+            href: 'https://www.profauda.fr/',
+            label: 'Accueil-Auda',
             position: 'right',
           },
         ],

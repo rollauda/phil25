@@ -2,15 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Accueil des leçons
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## Sommaire
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **try Docusaurus immediately** with **[docusaurus.new](/docs/L1/)**.
 
 ### What you'll need
 

@@ -6,8 +6,8 @@
 export default {
   "title": "Philosophie Tronc Commun",
   "tagline": "Rolland Auda, La Condamine, Quito, 2025-2026",
-  "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "favicon": "img/philo.svg",
+  "url": "https://phil25.rauda.fr",
   "baseUrl": "/",
   "organizationName": "rollauda",
   "projectName": "phil25",
@@ -49,13 +49,33 @@ export default {
       }
     ]
   ],
+  "plugins": [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "manuel",
+        "path": "manuel",
+        "routeBasePath": "manuel",
+        "sidebarPath": "/Users/rollandauda/Github/docusaurus/phil25/sidebars.js"
+      }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "methode",
+        "path": "methode",
+        "routeBasePath": "methode",
+        "sidebarPath": "/Users/rollandauda/Github/docusaurus/phil25/sidebars.js"
+      }
+    ]
+  ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "philoconda",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "philo",
+        "src": "img/philosophy.svg"
       },
       "items": [
         {
@@ -65,13 +85,20 @@ export default {
           "label": "Leçons"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "to": "/methode/intro",
+          "label": "Methode",
+          "position": "left",
+          "activeBaseRegex": "/methode/"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "to": "/manuel/intro",
+          "label": "Manuel",
+          "position": "left",
+          "activeBaseRegex": "/manuel/"
+        },
+        {
+          "href": "https://www.profauda.fr/",
+          "label": "Accueil-Auda",
           "position": "right"
         }
       ],
@@ -331,7 +358,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

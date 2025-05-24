@@ -16,53 +16,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "L1/congratulations",
+              "path": "/docs/L1/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "L1/create-a-blog-post",
+              "path": "/docs/L1/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "L1/create-a-document",
+              "path": "/docs/L1/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "L1/create-a-page",
+              "path": "/docs/L1/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "L1/deploy-your-site",
+              "path": "/docs/L1/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "L1/markdown-features",
+              "path": "/docs/L1/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "L2/manage-docs-versions",
+              "path": "/docs/L2/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "L2/translate-your-site",
+              "path": "/docs/L2/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "/category/l1--quest-ce-que-la-nature-",
+              "path": "/docs/category/l1--quest-ce-que-la-nature-",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/l2--la-parole-est-elle-le-propre-de-lhomme-",
+              "path": "/docs/category/l2--la-parole-est-elle-le-propre-de-lhomme-",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -73,7 +73,71 @@
                 "path": "/docs/intro",
                 "label": "intro"
               }
+            },
+            "methodeSidebar": {},
+            "manuelSidebar": {}
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "manuel": {
+      "path": "/manuel",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/manuel",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/manuel/intro",
+              "sidebar": "tutorialSidebar"
             }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/manuel/intro",
+                "label": "intro"
+              }
+            },
+            "methodeSidebar": {},
+            "manuelSidebar": {}
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "methode": {
+      "path": "/methode",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/methode",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/methode/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/methode/intro",
+                "label": "intro"
+              }
+            },
+            "methodeSidebar": {},
+            "manuelSidebar": {}
           }
         }
       ],
