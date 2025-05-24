@@ -1,0 +1,27 @@
+{
+  "id": "État copy",
+  "title": "État",
+  "description": "",
+  "source": "@site/manuel/État copy.md",
+  "sourceDirName": ".",
+  "slug": "/État copy",
+  "permalink": "/manuel/État copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "État"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Devoir",
+    "permalink": "/manuel/devoir"
+  },
+  "next": {
+    "title": "État",
+    "permalink": "/manuel/État"
+  }
+}

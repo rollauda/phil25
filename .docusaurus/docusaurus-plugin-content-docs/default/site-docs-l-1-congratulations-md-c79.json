@@ -1,6 +1,6 @@
 {
   "id": "L1/congratulations",
-  "title": "Congratulations!",
+  "title": "UN",
   "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
   "source": "@site/docs/L1/congratulations.md",
   "sourceDirName": "L1",
@@ -8,12 +8,12 @@
   "permalink": "/docs/L1/congratulations",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/L1/congratulations.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 6,
+    "title": "UN"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/docs/L1/deploy-your-site"
   },
   "next": {
-    "title": "L2 : La parole est-elle le propre de l'homme ?",
-    "permalink": "/docs/category/l2--la-parole-est-elle-le-propre-de-lhomme-"
+    "title": "L1 : Qu'est-ce que la nature ?",
+    "permalink": "/docs/docs/l1"
   }
 }

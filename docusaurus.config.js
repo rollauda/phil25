@@ -45,8 +45,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: undefined,
         },
         blog: {
           showReadingTime: true,
@@ -56,8 +55,7 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: undefined,
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -111,7 +109,7 @@ const config = {
           },
           {
             to: '/methode/intro', // Pointe vers le fichier intro.md
-            label: 'Methode', 
+            label: 'Méthode', 
             position: 'left',
             activeBaseRegex: `/methode/`, // Pour mettre en surbrillance l'élément actif
           },

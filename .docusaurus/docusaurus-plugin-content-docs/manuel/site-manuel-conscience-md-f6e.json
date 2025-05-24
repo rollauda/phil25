@@ -1,0 +1,27 @@
+{
+  "id": "conscience",
+  "title": "Conscience",
+  "description": "",
+  "source": "@site/manuel/conscience.md",
+  "sourceDirName": ".",
+  "slug": "/conscience",
+  "permalink": "/manuel/conscience",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Conscience"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bonheur",
+    "permalink": "/manuel/bonheur"
+  },
+  "next": {
+    "title": "Devoir",
+    "permalink": "/manuel/devoir"
+  }
+}

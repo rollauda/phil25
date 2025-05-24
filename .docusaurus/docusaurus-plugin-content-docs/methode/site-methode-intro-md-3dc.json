@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Méthode",
-  "description": "",
+  "title": "La méthode en philosophie",
+  "description": "Dissertation",
   "source": "@site/methode/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -14,5 +14,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "La dissertation",
+    "permalink": "/methode/methode/1"
+  }
 }

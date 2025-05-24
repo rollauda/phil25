@@ -1,0 +1,27 @@
+{
+  "id": "2/2-2/2-2",
+  "title": "Méthode de l'explication de texte",
+  "description": "<embed",
+  "source": "@site/methode/2/2-2/2.2.md",
+  "sourceDirName": "2/2-2",
+  "slug": "/2/2-2/2-2",
+  "permalink": "/methode/2/2-2/2-2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "2-2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analyser un texte",
+    "permalink": "/methode/2/2-1/2-1"
+  },
+  "next": {
+    "title": "Modèles",
+    "permalink": "/methode/2/2-3/2-3"
+  }
+}

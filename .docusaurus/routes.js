@@ -113,34 +113,17 @@ export default [
     exact: true
   },
   {
-    path: '/indeold',
-    component: ComponentCreator('/indeold', '99c'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ef7'),
+    component: ComponentCreator('/docs', 'f6c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fb3'),
+        component: ComponentCreator('/docs', '467'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b25'),
+            component: ComponentCreator('/docs', 'c65'),
             routes: [
-              {
-                path: '/docs/category/l1--quest-ce-que-la-nature-',
-                component: ComponentCreator('/docs/category/l1--quest-ce-que-la-nature-', '6a6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/l2--la-parole-est-elle-le-propre-de-lhomme-',
-                component: ComponentCreator('/docs/category/l2--la-parole-est-elle-le-propre-de-lhomme-', '1f8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '61d'),
@@ -148,50 +131,104 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L1/congratulations',
-                component: ComponentCreator('/docs/L1/congratulations', 'de3'),
+                path: '/docs/L0/0/intro',
+                component: ComponentCreator('/docs/L0/0/intro', 'af2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L1/create-a-blog-post',
-                component: ComponentCreator('/docs/L1/create-a-blog-post', 'cd0'),
+                path: '/docs/L0/1/',
+                component: ComponentCreator('/docs/L0/1/', '5c0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L1/create-a-document',
-                component: ComponentCreator('/docs/L1/create-a-document', 'da1'),
+                path: '/docs/L0/1/1-1/1-1',
+                component: ComponentCreator('/docs/L0/1/1-1/1-1', '90c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L1/create-a-page',
-                component: ComponentCreator('/docs/L1/create-a-page', '132'),
+                path: '/docs/L0/1/1-2/1-2',
+                component: ComponentCreator('/docs/L0/1/1-2/1-2', '10b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L1/deploy-your-site',
-                component: ComponentCreator('/docs/L1/deploy-your-site', '323'),
+                path: '/docs/L0/1/1-3/1-3',
+                component: ComponentCreator('/docs/L0/1/1-3/1-3', '541'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L1/markdown-features',
-                component: ComponentCreator('/docs/L1/markdown-features', 'f30'),
+                path: '/docs/L0/2/',
+                component: ComponentCreator('/docs/L0/2/', '158'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L2/manage-docs-versions',
-                component: ComponentCreator('/docs/L2/manage-docs-versions', 'b62'),
+                path: '/docs/L0/2/2-1/2-1',
+                component: ComponentCreator('/docs/L0/2/2-1/2-1', '085'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L2/translate-your-site',
-                component: ComponentCreator('/docs/L2/translate-your-site', 'e3e'),
+                path: '/docs/L0/2/2-2/2-2',
+                component: ComponentCreator('/docs/L0/2/2-2/2-2', '066'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/2/2-3/2-3',
+                component: ComponentCreator('/docs/L0/2/2-3/2-3', 'cd5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/3/',
+                component: ComponentCreator('/docs/L0/3/', 'bb5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/3/3-1/3-1',
+                component: ComponentCreator('/docs/L0/3/3-1/3-1', '073'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/3/3-2/3-2',
+                component: ComponentCreator('/docs/L0/3/3-2/3-2', '5df'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/3/3-3/3-3',
+                component: ComponentCreator('/docs/L0/3/3-3/3-3', 'a31'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/accueil',
+                component: ComponentCreator('/docs/L0/accueil', '9d6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/C/conclusion',
+                component: ComponentCreator('/docs/L0/C/conclusion', 'e99'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/fiche',
+                component: ComponentCreator('/docs/L0/fiche', '347'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/L0/howto',
+                component: ComponentCreator('/docs/L0/howto', '326'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -203,16 +240,52 @@ export default [
   },
   {
     path: '/manuel',
-    component: ComponentCreator('/manuel', '69e'),
+    component: ComponentCreator('/manuel', '4e2'),
     routes: [
       {
         path: '/manuel',
-        component: ComponentCreator('/manuel', 'f9d'),
+        component: ComponentCreator('/manuel', '5e8'),
         routes: [
           {
             path: '/manuel',
-            component: ComponentCreator('/manuel', 'e31'),
+            component: ComponentCreator('/manuel', '711'),
             routes: [
+              {
+                path: '/manuel/art',
+                component: ComponentCreator('/manuel/art', '564'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/manuel/bonheur',
+                component: ComponentCreator('/manuel/bonheur', '683'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/manuel/conscience',
+                component: ComponentCreator('/manuel/conscience', '998'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/manuel/devoir',
+                component: ComponentCreator('/manuel/devoir', '021'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/manuel/etat',
+                component: ComponentCreator('/manuel/etat', '5ef'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/manuel/inconscient',
+                component: ComponentCreator('/manuel/inconscient', 'bb8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/manuel/intro',
                 component: ComponentCreator('/manuel/intro', '3a2'),
@@ -227,19 +300,73 @@ export default [
   },
   {
     path: '/methode',
-    component: ComponentCreator('/methode', '132'),
+    component: ComponentCreator('/methode', '23e'),
     routes: [
       {
         path: '/methode',
-        component: ComponentCreator('/methode', 'e9e'),
+        component: ComponentCreator('/methode', '671'),
         routes: [
           {
             path: '/methode',
-            component: ComponentCreator('/methode', '00a'),
+            component: ComponentCreator('/methode', 'ee1'),
             routes: [
+              {
+                path: '/methode/1/1-1/1-1',
+                component: ComponentCreator('/methode/1/1-1/1-1', 'cee'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/1/1-2/1-2',
+                component: ComponentCreator('/methode/1/1-2/1-2', '29d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/1/1-3/1-3',
+                component: ComponentCreator('/methode/1/1-3/1-3', '1fe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/2/2-1/2-1',
+                component: ComponentCreator('/methode/2/2-1/2-1', '622'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/2/2-2/2-2',
+                component: ComponentCreator('/methode/2/2-2/2-2', '0ae'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/2/2-3/2-3',
+                component: ComponentCreator('/methode/2/2-3/2-3', '553'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/3/',
+                component: ComponentCreator('/methode/3/', '290'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/methode/intro',
                 component: ComponentCreator('/methode/intro', 'd04'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/methode/1',
+                component: ComponentCreator('/methode/methode/1', '4f1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/methode/methode/2',
+                component: ComponentCreator('/methode/methode/2', '83a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -251,7 +378,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2e1'),
+    component: ComponentCreator('/', 'fd5'),
     exact: true
   },
   {

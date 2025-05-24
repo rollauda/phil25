@@ -1,14 +1,13 @@
 {
   "id": "intro",
   "title": "Accueil des leçons",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "description": "Leçons de philosophie des classes de Terminale Tronc Commun",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "L1 : Qu'est-ce que la nature ?",
-    "permalink": "/docs/category/l1--quest-ce-que-la-nature-"
+    "title": "Leçon 0",
+    "permalink": "/docs/L0/accueil"
   }
 }

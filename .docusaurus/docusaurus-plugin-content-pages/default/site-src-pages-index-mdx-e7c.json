@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.mdx",
+  "title": "Accueil",
+  "description": "# Philosophie – Terminale Tronc Commun",
+  "frontMatter": {
+    "title": "Accueil",
+    "hide_table_of_contents": false
+  },
+  "unlisted": false
+}

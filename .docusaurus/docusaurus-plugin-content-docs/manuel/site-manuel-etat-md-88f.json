@@ -1,0 +1,23 @@
+{
+  "id": "État",
+  "title": "État",
+  "description": "",
+  "source": "@site/manuel/État.md",
+  "sourceDirName": ".",
+  "slug": "/État",
+  "permalink": "/manuel/État",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "État"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "État",
+    "permalink": "/manuel/inconsciente"
+  }
+}

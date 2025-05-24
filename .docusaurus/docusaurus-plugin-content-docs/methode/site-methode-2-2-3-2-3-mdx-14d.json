@@ -1,0 +1,27 @@
+{
+  "id": "2/2-3/2-3",
+  "title": "Modèles",
+  "description": "Modèle de schéma pour analyser un texte",
+  "source": "@site/methode/2/2-3/2.3.mdx",
+  "sourceDirName": "2/2-3",
+  "slug": "/2/2-3/2-3",
+  "permalink": "/methode/2/2-3/2-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "2-3"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Méthode de l'explication",
+    "permalink": "/methode/2/2-2/2-2"
+  },
+  "next": {
+    "title": "L'oral de second groupe",
+    "permalink": "/methode/3/"
+  }
+}

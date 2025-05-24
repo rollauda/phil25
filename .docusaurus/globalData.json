@@ -16,53 +16,88 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L1/congratulations",
-              "path": "/docs/L1/congratulations",
+              "id": "L0/0/intro",
+              "path": "/docs/L0/0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L1/create-a-blog-post",
-              "path": "/docs/L1/create-a-blog-post",
+              "id": "L0/1/1",
+              "path": "/docs/L0/1/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L1/create-a-document",
-              "path": "/docs/L1/create-a-document",
+              "id": "L0/1/1-1/1-1",
+              "path": "/docs/L0/1/1-1/1-1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L1/create-a-page",
-              "path": "/docs/L1/create-a-page",
+              "id": "L0/1/1-2/1-2",
+              "path": "/docs/L0/1/1-2/1-2",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L1/deploy-your-site",
-              "path": "/docs/L1/deploy-your-site",
+              "id": "L0/1/1-3/1-3",
+              "path": "/docs/L0/1/1-3/1-3",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L1/markdown-features",
-              "path": "/docs/L1/markdown-features",
+              "id": "L0/2/2",
+              "path": "/docs/L0/2/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L2/manage-docs-versions",
-              "path": "/docs/L2/manage-docs-versions",
+              "id": "L0/2/2-1/2-1",
+              "path": "/docs/L0/2/2-1/2-1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "L2/translate-your-site",
-              "path": "/docs/L2/translate-your-site",
+              "id": "L0/2/2-2/2-2",
+              "path": "/docs/L0/2/2-2/2-2",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/l1--quest-ce-que-la-nature-",
-              "path": "/docs/category/l1--quest-ce-que-la-nature-",
+              "id": "L0/2/2-3/2-3",
+              "path": "/docs/L0/2/2-3/2-3",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/l2--la-parole-est-elle-le-propre-de-lhomme-",
-              "path": "/docs/category/l2--la-parole-est-elle-le-propre-de-lhomme-",
+              "id": "L0/3/3",
+              "path": "/docs/L0/3/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "L0/3/3-1/3-1",
+              "path": "/docs/L0/3/3-1/3-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "L0/3/3-2/3-2",
+              "path": "/docs/L0/3/3-2/3-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "L0/3/3-3/3-3",
+              "path": "/docs/L0/3/3-3/3-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "L0/accueil",
+              "path": "/docs/L0/accueil",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "L0/C/conclusion",
+              "path": "/docs/L0/C/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "L0/fiche",
+              "path": "/docs/L0/fiche",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "L0/howto",
+              "path": "/docs/L0/howto",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -91,6 +126,36 @@
           "path": "/manuel",
           "mainDocId": "intro",
           "docs": [
+            {
+              "id": "art",
+              "path": "/manuel/art",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bonheur",
+              "path": "/manuel/bonheur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conscience",
+              "path": "/manuel/conscience",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devoir",
+              "path": "/manuel/devoir",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "etat",
+              "path": "/manuel/etat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inconscient",
+              "path": "/manuel/inconscient",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "intro",
               "path": "/manuel/intro",
@@ -123,8 +188,53 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "1/1-1/1-1",
+              "path": "/methode/1/1-1/1-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1/1-2/1-2",
+              "path": "/methode/1/1-2/1-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1/1-3/1-3",
+              "path": "/methode/1/1-3/1-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2/2-1/2-1",
+              "path": "/methode/2/2-1/2-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2/2-2/2-2",
+              "path": "/methode/2/2-2/2-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2/2-3/2-3",
+              "path": "/methode/2/2-3/2-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "3/3",
+              "path": "/methode/3/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/methode/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/methode/1",
+              "path": "/methode/methode/1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/methode/2",
+              "path": "/methode/methode/2",
               "sidebar": "tutorialSidebar"
             }
           ],

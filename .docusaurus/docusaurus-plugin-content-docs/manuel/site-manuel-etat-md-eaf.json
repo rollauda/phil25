@@ -1,0 +1,27 @@
+{
+  "id": "etat",
+  "title": "État",
+  "description": "",
+  "source": "@site/manuel/etat.md",
+  "sourceDirName": ".",
+  "slug": "/etat",
+  "permalink": "/manuel/etat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "État"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Devoir",
+    "permalink": "/manuel/devoir"
+  },
+  "next": {
+    "title": "Inconscient",
+    "permalink": "/manuel/inconscient"
+  }
+}

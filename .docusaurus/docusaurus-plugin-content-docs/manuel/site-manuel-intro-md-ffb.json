@@ -1,6 +1,6 @@
 {
   "id": "intro",
-  "title": "Manuel de philosophie",
+  "title": "Accueil",
   "description": "",
   "source": "@site/manuel/intro.md",
   "sourceDirName": ".",
@@ -12,7 +12,12 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "Accueil"
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Art",
+    "permalink": "/manuel/art"
+  }
 }
