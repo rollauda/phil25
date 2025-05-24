@@ -1,103 +1,103 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/phil25/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/phil25/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/phil25/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/0/intro",
-              "path": "/phil25/docs/L0/0/intro",
+              "path": "/docs/L0/0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/1/1",
-              "path": "/phil25/docs/L0/1/",
+              "path": "/docs/L0/1/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/1/1-1/1-1",
-              "path": "/phil25/docs/L0/1/1-1/1-1",
+              "path": "/docs/L0/1/1-1/1-1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/1/1-2/1-2",
-              "path": "/phil25/docs/L0/1/1-2/1-2",
+              "path": "/docs/L0/1/1-2/1-2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/1/1-3/1-3",
-              "path": "/phil25/docs/L0/1/1-3/1-3",
+              "path": "/docs/L0/1/1-3/1-3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/2/2",
-              "path": "/phil25/docs/L0/2/",
+              "path": "/docs/L0/2/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/2/2-1/2-1",
-              "path": "/phil25/docs/L0/2/2-1/2-1",
+              "path": "/docs/L0/2/2-1/2-1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/2/2-2/2-2",
-              "path": "/phil25/docs/L0/2/2-2/2-2",
+              "path": "/docs/L0/2/2-2/2-2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/2/2-3/2-3",
-              "path": "/phil25/docs/L0/2/2-3/2-3",
+              "path": "/docs/L0/2/2-3/2-3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/3/3",
-              "path": "/phil25/docs/L0/3/",
+              "path": "/docs/L0/3/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/3/3-1/3-1",
-              "path": "/phil25/docs/L0/3/3-1/3-1",
+              "path": "/docs/L0/3/3-1/3-1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/3/3-2/3-2",
-              "path": "/phil25/docs/L0/3/3-2/3-2",
+              "path": "/docs/L0/3/3-2/3-2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/3/3-3/3-3",
-              "path": "/phil25/docs/L0/3/3-3/3-3",
+              "path": "/docs/L0/3/3-3/3-3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/accueil",
-              "path": "/phil25/docs/L0/accueil",
+              "path": "/docs/L0/accueil",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/C/conclusion",
-              "path": "/phil25/docs/L0/C/conclusion",
+              "path": "/docs/L0/C/conclusion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/fiche",
-              "path": "/phil25/docs/L0/fiche",
+              "path": "/docs/L0/fiche",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "L0/howto",
-              "path": "/phil25/docs/L0/howto",
+              "path": "/docs/L0/howto",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -105,7 +105,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/phil25/docs/intro",
+                "path": "/docs/intro",
                 "label": "intro"
               }
             },
@@ -117,48 +117,48 @@
       "breadcrumbs": true
     },
     "manuel": {
-      "path": "/phil25/manuel",
+      "path": "/manuel",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/phil25/manuel",
+          "path": "/manuel",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "art",
-              "path": "/phil25/manuel/art",
+              "path": "/manuel/art",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "bonheur",
-              "path": "/phil25/manuel/bonheur",
+              "path": "/manuel/bonheur",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "conscience",
-              "path": "/phil25/manuel/conscience",
+              "path": "/manuel/conscience",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "devoir",
-              "path": "/phil25/manuel/devoir",
+              "path": "/manuel/devoir",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "etat",
-              "path": "/phil25/manuel/etat",
+              "path": "/manuel/etat",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "inconscient",
-              "path": "/phil25/manuel/inconscient",
+              "path": "/manuel/inconscient",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/phil25/manuel/intro",
+              "path": "/manuel/intro",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -166,7 +166,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/phil25/manuel/intro",
+                "path": "/manuel/intro",
                 "label": "intro"
               }
             },
@@ -178,63 +178,63 @@
       "breadcrumbs": true
     },
     "methode": {
-      "path": "/phil25/methode",
+      "path": "/methode",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/phil25/methode",
+          "path": "/methode",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "1/1-1/1-1",
-              "path": "/phil25/methode/1/1-1/1-1",
+              "path": "/methode/1/1-1/1-1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "1/1-2/1-2",
-              "path": "/phil25/methode/1/1-2/1-2",
+              "path": "/methode/1/1-2/1-2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "1/1-3/1-3",
-              "path": "/phil25/methode/1/1-3/1-3",
+              "path": "/methode/1/1-3/1-3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "2/2-1/2-1",
-              "path": "/phil25/methode/2/2-1/2-1",
+              "path": "/methode/2/2-1/2-1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "2/2-2/2-2",
-              "path": "/phil25/methode/2/2-2/2-2",
+              "path": "/methode/2/2-2/2-2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "2/2-3/2-3",
-              "path": "/phil25/methode/2/2-3/2-3",
+              "path": "/methode/2/2-3/2-3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "3/3",
-              "path": "/phil25/methode/3/",
+              "path": "/methode/3/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/phil25/methode/intro",
+              "path": "/methode/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/methode/1",
-              "path": "/phil25/methode/methode/1",
+              "path": "/methode/methode/1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/methode/2",
-              "path": "/phil25/methode/methode/2",
+              "path": "/methode/methode/2",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -242,7 +242,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/phil25/methode/intro",
+                "path": "/methode/intro",
                 "label": "intro"
               }
             },

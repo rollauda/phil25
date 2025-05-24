@@ -15,4 +15,4 @@ sidebar_position: 1
 - [Modèles](/methode/2/2-3/2-3)
 
 ## Oral de second groupe
-- [Consignes pour l'oral](/methode/3)
+- [Consignes pour l'oral](/methode/3) 

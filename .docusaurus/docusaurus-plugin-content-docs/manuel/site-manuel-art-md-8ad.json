@@ -5,7 +5,7 @@
   "source": "@site/manuel/art.md",
   "sourceDirName": ".",
   "slug": "/art",
-  "permalink": "/phil25/manuel/art",
+  "permalink": "/manuel/art",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Accueil",
-    "permalink": "/phil25/manuel/intro"
+    "permalink": "/manuel/intro"
   },
   "next": {
     "title": "Bonheur",
-    "permalink": "/phil25/manuel/bonheur"
+    "permalink": "/manuel/bonheur"
   }
 }

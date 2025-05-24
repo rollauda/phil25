@@ -5,7 +5,7 @@
   "source": "@site/docs/L0/0/intro.md",
   "sourceDirName": "L0/0",
   "slug": "/L0/0/intro",
-  "permalink": "/phil25/docs/L0/0/intro",
+  "permalink": "/docs/L0/0/intro",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Fiche",
-    "permalink": "/phil25/docs/L0/fiche"
+    "permalink": "/docs/L0/fiche"
   },
   "next": {
     "title": "1.",
-    "permalink": "/phil25/docs/L0/1/"
+    "permalink": "/docs/L0/1/"
   }
 }

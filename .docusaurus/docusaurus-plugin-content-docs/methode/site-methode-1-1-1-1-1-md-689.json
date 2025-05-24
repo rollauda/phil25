@@ -5,7 +5,7 @@
   "source": "@site/methode/1/1-1/1.1.md",
   "sourceDirName": "1/1-1",
   "slug": "/1/1-1/1-1",
-  "permalink": "/phil25/methode/1/1-1/1-1",
+  "permalink": "/methode/1/1-1/1-1",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "La dissertation",
-    "permalink": "/phil25/methode/methode/1"
+    "permalink": "/methode/methode/1"
   },
   "next": {
     "title": "Modèle d'analyse",
-    "permalink": "/phil25/methode/1/1-2/1-2"
+    "permalink": "/methode/1/1-2/1-2"
   }
 }
