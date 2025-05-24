@@ -8,9 +8,10 @@ export default {
   "tagline": "Rolland Auda, La Condamine, Quito, 2025-2026",
   "favicon": "img/philo.svg",
   "url": "https://phil25.rauda.fr",
-  "baseUrl": "/",
+  "baseUrl": "/phil25/",
   "organizationName": "rollauda",
   "projectName": "phil25",
+  "trailingSlash": true,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

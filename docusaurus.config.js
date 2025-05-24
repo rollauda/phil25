@@ -18,12 +18,13 @@ const config = {
   url: 'https://phil25.rauda.fr',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/phil25/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rollauda', // Usually your GitHub org/user name.
   projectName: 'phil25', // Usually your repo name.
+  trailingSlash: true, 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
