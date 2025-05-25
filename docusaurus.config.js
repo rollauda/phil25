@@ -15,16 +15,16 @@ const config = {
   favicon: 'img/philo.svg',
 
   // Set the production url of your site here
-  url: 'https://phil25.profauda.fr',
+  url: 'https://profauda.fr',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/phil25/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rollauda', // Usually your GitHub org/user name.
   projectName: 'phil25', // Usually your repo name.
-  trailingSlash: true, 
+  trailingSlash: false, 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -5,7 +5,7 @@
   "source": "@site/methode/2/2-2/2.2.md",
   "sourceDirName": "2/2-2",
   "slug": "/2/2-2/2-2",
-  "permalink": "/methode/2/2-2/2-2",
+  "permalink": "/phil25/methode/2/2-2/2-2",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Analyser un texte",
-    "permalink": "/methode/2/2-1/2-1"
+    "permalink": "/phil25/methode/2/2-1/2-1"
   },
   "next": {
     "title": "Modèles",
-    "permalink": "/methode/2/2-3/2-3"
+    "permalink": "/phil25/methode/2/2-3/2-3"
   }
 }

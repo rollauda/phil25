@@ -3,187 +3,187 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog/',
-    component: ComponentCreator('/blog/', '595'),
+    path: '/phil25/blog',
+    component: ComponentCreator('/phil25/blog', 'f65'),
     exact: true
   },
   {
-    path: '/blog/archive/',
-    component: ComponentCreator('/blog/archive/', '1d9'),
+    path: '/phil25/blog/archive',
+    component: ComponentCreator('/phil25/blog/archive', '271'),
     exact: true
   },
   {
-    path: '/blog/authors/',
-    component: ComponentCreator('/blog/authors/', '347'),
+    path: '/phil25/blog/authors',
+    component: ComponentCreator('/phil25/blog/authors', 'c9c'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles/',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles/', '57c'),
+    path: '/phil25/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/phil25/blog/authors/all-sebastien-lorber-articles', 'b06'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun/',
-    component: ComponentCreator('/blog/authors/yangshun/', '58a'),
+    path: '/phil25/blog/authors/yangshun',
+    component: ComponentCreator('/phil25/blog/authors/yangshun', '21c'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post/',
-    component: ComponentCreator('/blog/first-blog-post/', '08c'),
+    path: '/phil25/blog/first-blog-post',
+    component: ComponentCreator('/phil25/blog/first-blog-post', 'bd4'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post/',
-    component: ComponentCreator('/blog/long-blog-post/', '447'),
+    path: '/phil25/blog/long-blog-post',
+    component: ComponentCreator('/phil25/blog/long-blog-post', '893'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post/',
-    component: ComponentCreator('/blog/mdx-blog-post/', 'bcc'),
+    path: '/phil25/blog/mdx-blog-post',
+    component: ComponentCreator('/phil25/blog/mdx-blog-post', 'c0f'),
     exact: true
   },
   {
-    path: '/blog/tags/',
-    component: ComponentCreator('/blog/tags/', 'e17'),
+    path: '/phil25/blog/tags',
+    component: ComponentCreator('/phil25/blog/tags', '19c'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus/',
-    component: ComponentCreator('/blog/tags/docusaurus/', 'abd'),
+    path: '/phil25/blog/tags/docusaurus',
+    component: ComponentCreator('/phil25/blog/tags/docusaurus', '022'),
     exact: true
   },
   {
-    path: '/blog/tags/hello/',
-    component: ComponentCreator('/blog/tags/hello/', 'a37'),
+    path: '/phil25/blog/tags/hello',
+    component: ComponentCreator('/phil25/blog/tags/hello', 'd28'),
     exact: true
   },
   {
-    path: '/blog/tags/hola/',
-    component: ComponentCreator('/blog/tags/hola/', 'bf6'),
+    path: '/phil25/blog/tags/hola',
+    component: ComponentCreator('/phil25/blog/tags/hola', 'c90'),
     exact: true
   },
   {
-    path: '/helloReact/',
-    component: ComponentCreator('/helloReact/', '76c'),
+    path: '/phil25/helloReact',
+    component: ComponentCreator('/phil25/helloReact', '23d'),
     exact: true
   },
   {
-    path: '/docs/',
-    component: ComponentCreator('/docs/', '7e1'),
+    path: '/phil25/docs',
+    component: ComponentCreator('/phil25/docs', 'd5e'),
     routes: [
       {
-        path: '/docs/',
-        component: ComponentCreator('/docs/', 'ed1'),
+        path: '/phil25/docs',
+        component: ComponentCreator('/phil25/docs', '009'),
         routes: [
           {
-            path: '/docs/',
-            component: ComponentCreator('/docs/', '5b0'),
+            path: '/phil25/docs',
+            component: ComponentCreator('/phil25/docs', 'd0c'),
             routes: [
               {
-                path: '/docs/intro/',
-                component: ComponentCreator('/docs/intro/', 'e44'),
+                path: '/phil25/docs/intro',
+                component: ComponentCreator('/phil25/docs/intro', 'f04'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/0/intro/',
-                component: ComponentCreator('/docs/L0/0/intro/', 'fb6'),
+                path: '/phil25/docs/L0/0/intro',
+                component: ComponentCreator('/phil25/docs/L0/0/intro', '307'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/1/',
-                component: ComponentCreator('/docs/L0/1/', '5c0'),
+                path: '/phil25/docs/L0/1',
+                component: ComponentCreator('/phil25/docs/L0/1', '458'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/1/1-1/1-1/',
-                component: ComponentCreator('/docs/L0/1/1-1/1-1/', 'a3d'),
+                path: '/phil25/docs/L0/1/1-1/1-1',
+                component: ComponentCreator('/phil25/docs/L0/1/1-1/1-1', '8dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/1/1-2/1-2/',
-                component: ComponentCreator('/docs/L0/1/1-2/1-2/', '80d'),
+                path: '/phil25/docs/L0/1/1-2/1-2',
+                component: ComponentCreator('/phil25/docs/L0/1/1-2/1-2', '0a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/1/1-3/1-3/',
-                component: ComponentCreator('/docs/L0/1/1-3/1-3/', 'dba'),
+                path: '/phil25/docs/L0/1/1-3/1-3',
+                component: ComponentCreator('/phil25/docs/L0/1/1-3/1-3', '7ce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/2/',
-                component: ComponentCreator('/docs/L0/2/', '158'),
+                path: '/phil25/docs/L0/2',
+                component: ComponentCreator('/phil25/docs/L0/2', '3fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/2/2-1/2-1/',
-                component: ComponentCreator('/docs/L0/2/2-1/2-1/', 'db5'),
+                path: '/phil25/docs/L0/2/2-1/2-1',
+                component: ComponentCreator('/phil25/docs/L0/2/2-1/2-1', 'b77'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/2/2-2/2-2/',
-                component: ComponentCreator('/docs/L0/2/2-2/2-2/', '06c'),
+                path: '/phil25/docs/L0/2/2-2/2-2',
+                component: ComponentCreator('/phil25/docs/L0/2/2-2/2-2', 'a67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/2/2-3/2-3/',
-                component: ComponentCreator('/docs/L0/2/2-3/2-3/', '405'),
+                path: '/phil25/docs/L0/2/2-3/2-3',
+                component: ComponentCreator('/phil25/docs/L0/2/2-3/2-3', '971'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/3/',
-                component: ComponentCreator('/docs/L0/3/', 'bb5'),
+                path: '/phil25/docs/L0/3',
+                component: ComponentCreator('/phil25/docs/L0/3', '0f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/3/3-1/3-1/',
-                component: ComponentCreator('/docs/L0/3/3-1/3-1/', 'b9c'),
+                path: '/phil25/docs/L0/3/3-1/3-1',
+                component: ComponentCreator('/phil25/docs/L0/3/3-1/3-1', 'a04'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/3/3-2/3-2/',
-                component: ComponentCreator('/docs/L0/3/3-2/3-2/', '1ce'),
+                path: '/phil25/docs/L0/3/3-2/3-2',
+                component: ComponentCreator('/phil25/docs/L0/3/3-2/3-2', 'f8f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/3/3-3/3-3/',
-                component: ComponentCreator('/docs/L0/3/3-3/3-3/', 'fb7'),
+                path: '/phil25/docs/L0/3/3-3/3-3',
+                component: ComponentCreator('/phil25/docs/L0/3/3-3/3-3', '0e4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/accueil/',
-                component: ComponentCreator('/docs/L0/accueil/', 'f66'),
+                path: '/phil25/docs/L0/accueil',
+                component: ComponentCreator('/phil25/docs/L0/accueil', '84d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/C/conclusion/',
-                component: ComponentCreator('/docs/L0/C/conclusion/', 'c9a'),
+                path: '/phil25/docs/L0/C/conclusion',
+                component: ComponentCreator('/phil25/docs/L0/C/conclusion', '741'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/fiche/',
-                component: ComponentCreator('/docs/L0/fiche/', '55e'),
+                path: '/phil25/docs/L0/fiche',
+                component: ComponentCreator('/phil25/docs/L0/fiche', 'b02'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/L0/howto/',
-                component: ComponentCreator('/docs/L0/howto/', 'cef'),
+                path: '/phil25/docs/L0/howto',
+                component: ComponentCreator('/phil25/docs/L0/howto', '13d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -194,56 +194,56 @@ export default [
     ]
   },
   {
-    path: '/manuel/',
-    component: ComponentCreator('/manuel/', '246'),
+    path: '/phil25/manuel',
+    component: ComponentCreator('/phil25/manuel', 'e77'),
     routes: [
       {
-        path: '/manuel/',
-        component: ComponentCreator('/manuel/', '58e'),
+        path: '/phil25/manuel',
+        component: ComponentCreator('/phil25/manuel', '570'),
         routes: [
           {
-            path: '/manuel/',
-            component: ComponentCreator('/manuel/', 'c35'),
+            path: '/phil25/manuel',
+            component: ComponentCreator('/phil25/manuel', 'faf'),
             routes: [
               {
-                path: '/manuel/art/',
-                component: ComponentCreator('/manuel/art/', 'ede'),
+                path: '/phil25/manuel/art',
+                component: ComponentCreator('/phil25/manuel/art', 'd0b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/manuel/bonheur/',
-                component: ComponentCreator('/manuel/bonheur/', 'fd8'),
+                path: '/phil25/manuel/bonheur',
+                component: ComponentCreator('/phil25/manuel/bonheur', 'df4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/manuel/conscience/',
-                component: ComponentCreator('/manuel/conscience/', 'e78'),
+                path: '/phil25/manuel/conscience',
+                component: ComponentCreator('/phil25/manuel/conscience', 'c59'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/manuel/devoir/',
-                component: ComponentCreator('/manuel/devoir/', '399'),
+                path: '/phil25/manuel/devoir',
+                component: ComponentCreator('/phil25/manuel/devoir', '097'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/manuel/etat/',
-                component: ComponentCreator('/manuel/etat/', 'bab'),
+                path: '/phil25/manuel/etat',
+                component: ComponentCreator('/phil25/manuel/etat', '288'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/manuel/inconscient/',
-                component: ComponentCreator('/manuel/inconscient/', 'cec'),
+                path: '/phil25/manuel/inconscient',
+                component: ComponentCreator('/phil25/manuel/inconscient', 'fa7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/manuel/intro/',
-                component: ComponentCreator('/manuel/intro/', 'f94'),
+                path: '/phil25/manuel/intro',
+                component: ComponentCreator('/phil25/manuel/intro', '575'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -254,74 +254,74 @@ export default [
     ]
   },
   {
-    path: '/methode/',
-    component: ComponentCreator('/methode/', 'dd5'),
+    path: '/phil25/methode',
+    component: ComponentCreator('/phil25/methode', 'efe'),
     routes: [
       {
-        path: '/methode/',
-        component: ComponentCreator('/methode/', 'b3c'),
+        path: '/phil25/methode',
+        component: ComponentCreator('/phil25/methode', '81f'),
         routes: [
           {
-            path: '/methode/',
-            component: ComponentCreator('/methode/', 'd21'),
+            path: '/phil25/methode',
+            component: ComponentCreator('/phil25/methode', '39a'),
             routes: [
               {
-                path: '/methode/1/1-1/1-1/',
-                component: ComponentCreator('/methode/1/1-1/1-1/', '608'),
+                path: '/phil25/methode/1/1-1/1-1',
+                component: ComponentCreator('/phil25/methode/1/1-1/1-1', '05d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/1/1-2/1-2/',
-                component: ComponentCreator('/methode/1/1-2/1-2/', '937'),
+                path: '/phil25/methode/1/1-2/1-2',
+                component: ComponentCreator('/phil25/methode/1/1-2/1-2', 'd7d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/1/1-3/1-3/',
-                component: ComponentCreator('/methode/1/1-3/1-3/', '42a'),
+                path: '/phil25/methode/1/1-3/1-3',
+                component: ComponentCreator('/phil25/methode/1/1-3/1-3', '7a5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/2/2-1/2-1/',
-                component: ComponentCreator('/methode/2/2-1/2-1/', '6ac'),
+                path: '/phil25/methode/2/2-1/2-1',
+                component: ComponentCreator('/phil25/methode/2/2-1/2-1', 'b83'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/2/2-2/2-2/',
-                component: ComponentCreator('/methode/2/2-2/2-2/', '65f'),
+                path: '/phil25/methode/2/2-2/2-2',
+                component: ComponentCreator('/phil25/methode/2/2-2/2-2', 'f59'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/2/2-3/2-3/',
-                component: ComponentCreator('/methode/2/2-3/2-3/', '8c2'),
+                path: '/phil25/methode/2/2-3/2-3',
+                component: ComponentCreator('/phil25/methode/2/2-3/2-3', '943'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/3/',
-                component: ComponentCreator('/methode/3/', '290'),
+                path: '/phil25/methode/3',
+                component: ComponentCreator('/phil25/methode/3', '3c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/intro/',
-                component: ComponentCreator('/methode/intro/', '45c'),
+                path: '/phil25/methode/intro',
+                component: ComponentCreator('/phil25/methode/intro', '34f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/methode/1/',
-                component: ComponentCreator('/methode/methode/1/', '65c'),
+                path: '/phil25/methode/methode/1',
+                component: ComponentCreator('/phil25/methode/methode/1', 'c3b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/methode/methode/2/',
-                component: ComponentCreator('/methode/methode/2/', 'fdd'),
+                path: '/phil25/methode/methode/2',
+                component: ComponentCreator('/phil25/methode/methode/2', '443'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -332,8 +332,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'fd5'),
+    path: '/phil25/',
+    component: ComponentCreator('/phil25/', '859'),
     exact: true
   },
   {
