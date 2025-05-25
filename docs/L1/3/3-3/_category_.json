@@ -1,8 +1,8 @@
 {
-  "label": "Tableau des notions",
+  "label": "3.3. Titre-abrégé",
   "position": 3,
   "link": {
     "type": "doc",
-    "id": "tableau"
+    "id": "3-3"
   }
 }

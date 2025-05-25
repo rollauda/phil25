@@ -1,2 +1,7 @@
 howto.md
 **/.DS_Store
+# Dossiers de build et caches
+.docusaurus/
+build/
+node_modules/
+.cache/

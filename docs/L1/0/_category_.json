@@ -1,8 +1,8 @@
 {
-  "label": "Tableau des notions",
+  "label": "Introduction",
   "position": 3,
   "link": {
     "type": "doc",
-    "id": "tableau"
+    "id": "intro"
   }
 }

@@ -2,15 +2,9 @@
 sidebar_position: 1
 id: accueil
 ---
-# Leçon 0
+# Présentation de l'année
 
-| **Plan de la leçon** | **[Introduction](/docs/L0/0/intro) <br /> [1.](/docs/L0/1/)  <br /> [2.](/docs/L0/2/) <br /> [3.](/docs/L0/3/) <br /> [Conclusion](/docs/L0/C/conclusion)** |
-| -------------------- | ----------------------------------------------------- |
-| Perspective          | 1. L'existence et la culture / 2. La morale et la politique / 3. La connaissance |
-| Notion principale    | `X`, `X`                                              |
-| Notions secondaires  | *`x`, `x`, `x`, `x`*                                  |
-| Repères              | `x/x` – `x/x`                                         |
-| Méthode              | xxx                                                   |
-| Auteurs étudiés      | x, x, x, x                                            |
-| **Travaux**          | **- Reprendre dans un carnet les définitions du cours à retenir**. <br /> **- Écrire une courte synthèse de la leçon…** <br /> **- Évaluations :** |
+:::tip 
+L’objectif principal de cette année est de vous initier à la réflexion philosophique et de vous préparer à l’épreuve écrite qui aura lieu au mois de juin (un écrit de 4 heures, avec trois sujets au choix, deux sujets de dissertation et une explication de texte).
+:::
 
