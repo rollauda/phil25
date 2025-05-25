@@ -6,18 +6,45 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary:   #FF7518;  /* Pumpkin Orange */
-  --ifm-color-primary-dark:   #CC5500;  /* Burnt Orange */
-  --ifm-color-primary-darker: #BE5103;  /* Figma Burnt Orange */
-  --ifm-color-primary-darkest: #8B4000;  /* Dark Orange */  
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #ff9f1a;
+  --ifm-color-primary-dark: #fd9300;
+  --ifm-color-primary-darker: #ef8b00;
+  --ifm-color-primary-darkest: #c57200;
+  --ifm-color-primary-light: #ffab36;
+  --ifm-color-primary-lighter: #ffb144;
+  --ifm-color-primary-lightest: #ffc26e;
+  --ifm-background-color: #ededed59;
   --ifm-code-font-size: 95%;
+  --ifm-navbar-height: 50px;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   /* 2. Réduction de la taille de police globale */
   --ifm-font-size-base: 15px;    /* par défaut 16px */
   --ifm-font-size-small: 14px;   /* par défaut ~14px */
+}
+
+/* cible la balise <footer> générée par Docusaurus */
+.footer {
+  background-color: #e9e9e9fb !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* Texte et liens en noir */
+.footer,
+.footer a {
+  color: #000 !important;
+}
+
+/* Réduire la taille du texte du footer à 0.75rem (75% de la taille de base) */
+.footer {
+  font-size: 0.80rem !important;
+}
+
+/* 1. Appliquer le gris sur la barre de navigation principale */
+.theme-layout-navbar,
+.navbar,
+.navbar__inner {
+  background-color: #edededfb !important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */

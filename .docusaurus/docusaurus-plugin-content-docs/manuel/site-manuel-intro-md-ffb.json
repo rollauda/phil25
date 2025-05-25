@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Accueil",
-  "description": "",
+  "description": "- Art",
   "source": "@site/manuel/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

@@ -1,7 +1,7 @@
 {
   "id": "art",
   "title": "Art",
-  "description": "",
+  "description": "Définition",
   "source": "@site/manuel/art.md",
   "sourceDirName": ".",
   "slug": "/art",
