@@ -2,6 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Welcome",
+      "permalink": "/phil25/blog/welcome",
+      "unlisted": false,
+      "date": "2021-08-26T00:00:00.000Z"
+    },
+    {
       "title": "MDX Blog Post",
       "permalink": "/phil25/blog/mdx-blog-post",
       "unlisted": false,
