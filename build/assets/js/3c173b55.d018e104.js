@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaur_1=self.webpackChunkdocusaur_1||[]).push([[1260],{8307:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/phil25/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
