@@ -4,8 +4,12 @@
 
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
+image: node:18  # Version de Node.js
+
 tasks:
   - init: npm install && npm run build
     command: npm run start
 
-
+ports:
+  - port: 3000
+    onOpen: open-preview  # Ouvre l'aperçu automatiquement
