@@ -76,7 +76,7 @@ const config = {
         id: 'manuel',
         path: 'manuel',
         routeBasePath: 'manuel',
-        sidebarPath: require.resolve('./sidebars.js'),
+        sidebarPath: require.resolve('./sidebarsManuel.js'),
       },
     ],
     [
