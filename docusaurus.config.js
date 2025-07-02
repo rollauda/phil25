@@ -33,8 +33,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'fr',
+    locales: ['fr'],
   },
 
   presets: [
@@ -42,12 +42,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: undefined,
-        },
+        docs: false, // Désactive la documentation par défaut
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -73,10 +68,19 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'docs',
+        path: 'docs',
+        routeBasePath: 'docs',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: 'manuel',
         path: 'manuel',
         routeBasePath: 'manuel',
-        sidebarPath: require.resolve('./sidebarsManuel.js'),
+        sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
     [
@@ -107,6 +111,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Leçons',
+            docsPluginId: 'docs',
           },
           {
             to: '/methode/intro', // Pointe vers le fichier intro.md

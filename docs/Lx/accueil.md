@@ -2,11 +2,10 @@
 sidebar_position: 1
 id: accueil
 ---
-
-# Leçon 1 : Qu'est-ce que la nature ? 
+# Leçon 0
 
 <div style={{ fontSize: '0.9rem' }}>
-| **Plan de la leçon** | **[Introduction](/docs/L1/0/intro) <br /> [1.](/docs/L1/1/)  <br /> [2.](/docs/L1/2/) <br /> [3.](/docs/L1/3/) <br /> [Conclusion](/docs/L1/C/conclusion)** |
+| **Plan de la leçon** | **[Introduction](/docs/Lx/0/intro) <br /> [1.](/docs/Lx/1/)  <br /> [2.](/docs/Lx/2/) <br /> [Conclusion](/docs/Lx/C/conclusion)** |
 | -------------------- | ----------------------------------------------------- |
 | Perspective          | 1. L'existence et la culture / 2. La morale et la politique / 3. La connaissance |
 | Notion principale    | `X`, `X`                                              |
