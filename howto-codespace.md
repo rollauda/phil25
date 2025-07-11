@@ -1,6 +1,6 @@
 # Howto GitHub Codespaces pour sites Docusaurus
 
-###- Commandes fréquentes
+### Commandes fréquentes
 ```bash
 # Combo rapide
 npm run start
