@@ -94,11 +94,21 @@ const config = {
     ],
   ],
 
+  themes: ['@docusaurus/theme-mermaid'],
+
+  // Active le support de Mermaid pour le Markdown
+  markdown: {
+    mermaid: true,
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      mermaid: {
+        theme: {light: 'neutral', dark: 'forest'},
+      },
       navbar: {
         title: 'philoconda',
         logo: {
