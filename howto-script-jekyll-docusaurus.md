@@ -41,6 +41,11 @@ Lancez simplement le script :
 python jekyll-to-docusaurus-simple.py
 ```
 
+
+```bash
+python jekyll-to-docusaurus-lot.py
+```
+
 Le script vous demandera :
 
 1. **Fichier d'entrée** : Le chemin vers votre fichier Jekyll (.md)
