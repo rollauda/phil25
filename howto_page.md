@@ -64,13 +64,13 @@ Puis dans le fichier :
 
 ```
 <embed
-  src={useBaseUrl('/pdf/travaux/parcours-cine.pdf')}
+  src={useBaseUrl('/pdf/L0/bac-cav.pdf')}
   type="application/pdf"
   width="85%"
-  height="750"
+  height="750" 
 />
 <br/>
-<span style={{backgroundColor: '#f5f5f5', padding: '2px 4px', borderRadius: '3px', fontSize: '13px'}}>→ [Ouvrir ce PDF dans un nouvel onglet](/pdf/L0/presentation-cav.pdf)</span>
+<span style={{backgroundColor: '#f5f5f5', padding: '2px 4px', borderRadius: '3px', fontSize: '13px'}}>→ [Ouvrir ce PDF dans un nouvel onglet](/pdf/L0/bac-cav.pdf)</span>
 ```
 
 ### Videos
