@@ -19,6 +19,8 @@ Le script `jekyll-to-docusaurus-simple.py` convertit un fichier Markdown Jekyll 
 ### Dépendances Python
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install pyyaml
 ```
 
