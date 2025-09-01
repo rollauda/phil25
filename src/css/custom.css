@@ -26,10 +26,6 @@
   --ifm-code-font-size: 95%;
   --ifm-navbar-height: 50px;
   --docusaurus-highlighted-code-line-bg: rgba(234, 88, 12, 0.1);
-  
-  /* Réduction de la taille de police globale */
-  --ifm-font-size-base: 15px;    /* par défaut 16px */
-  --ifm-font-size-small: 14px;   /* par défaut ~14px */
 }
 
 /* Limiter la largeur de l'encart tip sur toutes les pages */
