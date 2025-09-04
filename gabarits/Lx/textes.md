@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-id: fiche
+id: textes
 ---
-# Fiche-leçon
+# Textes de la leçon
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 

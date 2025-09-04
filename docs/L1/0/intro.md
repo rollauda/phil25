@@ -14,8 +14,10 @@ Le **bonheur** de définit comme un **état de satisfaction complète, stable et
 Du latin *bonum augurium*. *Bonum* = bon, favorable, *augurium* = présage, prophétie (on retrouve cette étymologie dans l'expression “C'est de bonne augure”). Augure devient en français « heur » (chance, fortune), qui donne bonheur. 
 :::
 
+:::note[citations]
 > « *Ne proclamons heureux nul homme avant sa mort.* »   
 > (Sophocle)
 
 > « *Tous les hommes recherchent d’être heureux. Jusqu’à ceux qui vont se pendre.* »   
 > (Blaise Pascal)
+:::

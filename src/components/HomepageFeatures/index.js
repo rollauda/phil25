@@ -7,7 +7,7 @@ const FeatureList = [
   {
     title: 'Leçons',
     Svg: require('@site/static/img/philo.svg').default,
-    to: '/docs/L0/accueil',
+    to: '/docs/accueil',
   },
   {
     title: 'Méthode',

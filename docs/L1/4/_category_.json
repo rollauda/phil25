@@ -1,8 +1,8 @@
 {
-  "label": "Préparation du devoir",
+  "label": "Devoir",
   "position": 10,
   "link": {
     "type": "doc",
-    "id": "devoir"
+    "id": "Devoir"
   }
 }

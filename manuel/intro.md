@@ -10,8 +10,7 @@ title: Accueil
 
 Il est complété tout au long de l'année, quand chaque leçon est terminée.
 
-Il se compose de trois sections : 
-- [Les 17 notions du programme](/manuel/notions/accueil.md) étudiées pendant l'année
-- [Des notices biographiques](/manuel/philosophes/accueil.md) des philosophes vus pendant l'année
-- [Des synthèses des grands courants et grandes doctrines](/manuel/courants/accueil.md) abordées en cours
+**Il se compose de deux sections :**
+- Les 17 notions du programme
+- Des synthèses des grands courants et grandes doctrines philosophique
 :::

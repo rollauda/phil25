@@ -10,9 +10,9 @@ id: accueil
   - [1. Existe-t-il une seule manière d’être heureux ? ](/docs/L1/1/)  
   - [2. Faut-il être raisonnable pour être heureux ? ](/docs/L1/2/) 
   - [3. Doit-on rechercher le bonheur ?](/docs/L1/3) 
-- **Perspectives**  : 1. L'existence et la culture
-- **Notion principale** : `BONHEUR`, `RAISON`,  
-- *Notions secondaires* : *`Nature`, `Liberté`* 
+- **Perspective**  : 1. L'existence et la culture
+- **Notion principale** : `BONHEUR`, `RAISON`  
+- *Notion complémentaire* : *`Liberté`* 
 - **Méthode** : la dissertation  
 - **Auteurs étudiés** : Aristote, Platon (Socrate et Calliclès), Épicure, Épictète, Schopenhauer, Alain   
 - **Travaux** :

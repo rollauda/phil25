@@ -9,7 +9,7 @@ Doctrine morale qui prescrit de limiter au maximum ses désirs et de rejeter les
 :::
 
 :::tip[Développement]
-Étymologiquement, « ascèse » vient du grec *askesis* qui signifie « exercice ». Il s’appliquait d'abord dans la Grèce antique aux exercices et à la discipline que s’imposaient les athlètes, puis les philosophes, qui cherchaient une discipline de vie leur permettant d'exercer leur volonté à résister aux passions, aux tendances naturelles du corps.
+Étymologiquement, « ascèse » vient du grec *askesis* qui signifie « exercice ». Il s’appliquait d'abord dans la Grèce antique aux exercices que s’imposaient les athlètes, puis les philosophes, qui cherchaient une discipline de vie leur permettant d'exercer leur volonté à résister aux passions, aux tendances naturelles du corps.
 - L'ascétisme peut avoir une **dimension religieuse** (le renoncement aux plaisirs sensibles pour atteindre la pureté). La souffrance est vue comme une forme de libération. 
 - Mais il peut aussi avoir une d**imension laïque et philosophique** : chercher le bonheur dans le repos, le contentement, plutôt que dans une quête sans fin de satisfaction. 
 :::
