@@ -4,6 +4,8 @@ title: Bonheur
 
 # Le bonheur
 
+(voir la [carte mentale](https://www.profauda.fr/schemas/cartes/bonheur.html))
+
 :::note[Définition simple]
 Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète, stable et durable**, qui est présent lorsque notre existence correspond à ce que nous en attendons et que nous avons atteint nos grands objectifs.
 :::
@@ -11,7 +13,8 @@ Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète
 :::tip[Définition approfondie]
 - Le bonheur est souvent considéré comme l'objectif premier de toute existence humaine. La doctrine morale eudémoniste défend l'idée que le bonheur est le **souverain bien**, la finalité de nos vies, et que tous les autres objectifs (prendre du plaisir, gagner de l'argent, trouver l'amour, etc.) ne sont que des moyens en vue de cette fin. Ainsi, Blaise Pascal affime que "*Tout les hommes recherchent d'être heureux. Même ceux qui se pendent.*". 
 - **Le bonheur peut-il facilement être atteint ?** L'étymologie nous laisse entendre que non. Bonheur vient du latin *bonum augurium* (*bonum* = bon, favorable ; *augurium* = présage, prophétie ; sens que l'on retrouve dans l'expression “*C'est de bonne augure*”). Augure devient en français « *heur* » (chance, fortune), qui donne bonheur. Le bonheur semble donc lié à la chance, au sort favorable : nous aurons beau tout faire pour être heureux, un accident, le manque de chance, peuvent nous en empêcher. C'est ce que veut dire Sophocle lorsqu'il affirme "*Ne proclamons heureux nul homme avant sa mort.*" : il faut attendre la fin de l'existence de quelqu'un pour pouvoir affirmer que sa vie a été heureuse, car le bonheur peut s'effondrer à tout moment.
-- On distingue en général le bonheur du plaisir, qui est une sensation de satisfaction ephémère due à la satisfaction d'un besoin ou d'un désir. Mais les **hédonistes** ne font pas cette distinction : ils considèrent que le bonheur consiste dans le plaisir, et que nous sommes donc heureux au moment ou nous satisfaisons un désir.
+- On distingue en général le bonheur du plaisir, qui est une sensation agréable,
+ephémère, plus ou moins intense, due à la satisfaction d'un besoin ou d'un désir. Mais les **hédonistes** ne font pas cette distinction : ils considèrent que le bonheur consiste dans le plaisir, et que nous sommes donc heureux au moment ou nous satisfaisons un désir.
 :::
 
 :::warning[Grandes thèses et arguments vue en cours]
