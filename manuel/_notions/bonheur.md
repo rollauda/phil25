@@ -34,3 +34,7 @@ ephémère, plus ou moins intense, due à la satisfaction d'un besoin ou d'un d�
 - **Bonheur et raison**. Doit-on être raisonnable pour être heureux ? Le bonheur consiste-t-il dans une vie rationnelle et raisonnable, ou au contraire dans une vie déraisonnable faite d'excès et de passion ?
 - **Bonheur et liberté**. Peut-on tout faire afin d'être heureux ? Le bonheur consiste-t-il en une vie de toute puissance, ou nous faisons tout ce que nous voulons ? Ou au contraire dans une vie ou nous limitons notre liberté, ou nous nous contentons de peu, et où nous acceptons notre sort ?
 :::
+
+:::note[Complément : bonheur, conscience et vérité]
+
+:::
