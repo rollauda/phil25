@@ -9,7 +9,7 @@ L'hédonisme est une doctrine philosophique qui fait de la recherche du plaisir 
 :::
 
 :::tip[développement]
-L'hédonsime repose en général sur une conception matérialiste du monde : le monde étant fait exclusivement de matière, nous sommes avant tout des animaux sensibles. Les deux sensations fondamentales de tout être vivant étant le plaisir et la douleur, le bonheur consiste dans une double quête : prendre du plaisir et éviter la douleur.
+L'hédonsime repose en général sur une conception matérialiste du monde : le monde étant fait exclusivement de matière, nous sommes avant tout des animaux sensibles. Les deux sensations fondamentales de tout être vivant étant le plaisir et la douleur, le bonheur consiste dans une double quête : prendre du plaisir et éviter la souffrance.
 
 On peut distinguer deux formes d'hédonisme :
 - L'**hédonisme radical**, par exemple celui du personnage fictif de Platon, Calliclès : il faut en permanence rechercher le plaisir, sans penser aux conséquences.
