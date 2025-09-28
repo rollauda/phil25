@@ -35,7 +35,9 @@ Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète
 - **Alain**. Il fait distinguer le plaisir, qui est de l'ordre de la réecption passive, du bonheur, qui est de l'ordre de l'action. Pour être heureux, il ne faut donc pas espérer recevoir une récompense (du plaisir) de nos actions, mais simplement agir, dans le domaine qui nous correspond le mieux. "*Chacun fait son bonheur*".
 :::
 
-:::info[problématiques]
+:::info[problèmes]
+- Le bonheur est-il le fait du hasard ? Le bonheur se fonde-t-il sur le sort, les événements favorables et imprévisibles, ou bien repose-t-il  plutôt sur la façon de mener notre existence afin d'atteindre le souverin bien ?
+- Le bonheur est-il le but ultime de notre existence ? Faut-il consrtruire notre vie
 - **Bonheur et raison**. Doit-on être raisonnable pour être heureux ? Le bonheur consiste-t-il dans une vie rationnelle et raisonnable, ou au contraire dans une vie déraisonnable faite d'excès et de passion ?
 - **Bonheur et liberté**. Peut-on tout faire afin d'être heureux ? Le bonheur consiste-t-il en une vie de toute puissance, ou nous faisons tout ce que nous voulons ? Ou au contraire dans une vie ou nous limitons notre liberté, ou nous nous contentons de peu, et où nous acceptons notre sort ?
 :::
@@ -43,3 +45,5 @@ Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète
 :::note[Complément : bonheur, conscience et vérité]
 
 :::
+
+
