@@ -12,11 +12,11 @@ title: Notion
 
 :::
 
-:::warning[Grandes thèses et arguments vue en cours]
+:::info[problématiques]
 
 :::
 
-:::info[problématiques]
+:::warning[Grandes thèses et arguments vue en cours]
 
 :::
 
