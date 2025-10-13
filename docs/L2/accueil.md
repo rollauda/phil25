@@ -2,16 +2,16 @@
 sidebar_position: 1
 id: accueil
 ---
-# Leçon 1 : Comment être heureux ?
+# Leçon 2 : Une Intelligence artificielle pense-t-elle vraiment ?
 
 - **Plan de la leçon** : 
-  - [Introduction]
-  - [1.] 
-  - [2.]
-  - [3.]
-- **Perspectives**  : 1. L'existence et la culture ; 2. La morale et la politique ; 3. La connaissance | 
-- **Notions principales** : `NOTION`, `NOTION`, `NOTION`  
-- *Notions complémentaires* : *`notion`* 
+  - [Présentation](/docs/L2/0/intro)
+  - [1. Qu’est-ce qu’une IA ?](/docs/L2/1/)
+  - [2. La pensée est-elle le propre de l’homme ?](/docs/L2/2/)
+  - [3. Suffit-il à une machine de parler pour penser ?](/docs/L2/3)
+- **Perspectives**  : 1. L'existence et la culture ; 3. La connaissance | 
+- **Notions principales** : `RAISON`,   
+- *Notions complémentaires* : *`Nature`, `technique`,`langage`, `conscience`* 
 - *Repères conceptuels* : *repère*
 - **Méthode** : 
 - **Auteurs étudiés** :    
