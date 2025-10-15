@@ -13,6 +13,7 @@ id: accueil
 - **Perspective**  : 1. L'existence et la culture
 - **Notion principale** : `BONHEUR`, `RAISON`  
 - *Notion complémentaire* : *`Liberté`* 
+- *Repères conceptuels* : [*en théorie – en pratique*](/manuel/Repères/theorie) ; [*en acte – en puissance*](/manuel/Repères/acte)
 - **Méthode** : la dissertation  
 - **Auteurs étudiés** : Aristote, Platon (Socrate et Calliclès), Épicure, Épictète, Schopenhauer, Alain   
 - **Travaux** :

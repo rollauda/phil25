@@ -4,6 +4,9 @@ title: Notion
 
 # Notion
 
+*La page sera complétée pendant l'année lorsque la notion sera de nouveau abordée.*
+
+
 :::note[Définition simple]
 
 :::

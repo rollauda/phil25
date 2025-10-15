@@ -4,6 +4,9 @@ title: Bonheur
 
 # Le bonheur
 
+*La page sera complétée pendant l'année lorsque la notion sera de nouveau abordée.*
+
+
 
 :::note[Définition simple]
 Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète, stable et durable**, qui est présent lorsque notre existence correspond à ce que nous en attendons et que nous avons atteint nos grands objectifs.  
@@ -25,7 +28,7 @@ Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète
 
 :::info[problèmes]
 - **Leçon 1,** [**Introduction**](/docs/L1/0/intro) : **Bonheur et chance**. Le bonheur est-il le fait du hasard ? Le bonheur dépend-il du sort, d'événements favorables et imprévisibles, ou bien repose-t-il plutôt sur la bonne façon de mener notre existence afin d'atteindre le souverain bien ?
-- **Leçon 1,** [**1.**](/docs/L1/1) et [2](/docs/L1/2) : **Bonheur et raison**. Doit-on être raisonnable pour être heureux ? Le bonheur consiste-t-il dans une vie rationnelle et raisonnable, ou au contraire dans une vie déraisonnable, faite d'excès et de passion ?
+- **Leçon 1,** [**1.**](/docs/L1/1) et **[2](/docs/L1/2)** : **Bonheur et raison**. Doit-on être raisonnable pour être heureux ? Le bonheur consiste-t-il dans une vie rationnelle et raisonnable, ou au contraire dans une vie déraisonnable, faite d'excès et de passion ?
 - **Leçon 1,** [**2.1**](/docs/L1/2/2-1/2-1) : **Bonheur et liberté**. Peut-on tout faire afin d'être heureux ? Le bonheur consiste-t-il en une vie de toute puissance, ou nous faisons tout ce que nous voulons ? Ou au contraire dans une vie ou nous limitons notre liberté, ou nous nous contentons de peu, et où nous acceptons notre sort ?
 :::
 

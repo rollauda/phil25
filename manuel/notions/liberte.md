@@ -2,7 +2,10 @@
 title: Liberté
 ---
 
-# Notion
+# Liberté
+
+*La page sera complétée pendant l'année lorsque la notion sera de nouveau abordée.*
+
 
 :::note[Définition simple]
 Est libre une personne qui n'est pas soumise à des contraintes. 
@@ -14,9 +17,11 @@ Est libre une personne qui n'est pas soumise à des contraintes.
   - La **contrainte** est une puissance physique qui nous force à faire quelque chose en opposition avec notre volonté (exemples : la gravitation, une arme à feu). L’**obligation** est une puissance morale qui ordonne d’agir (exemples : la loi morale nous ordonne de ne pas mentir, la loi civile de payer nos impôts).
 - **La soumission et l'obéissance**
   - **On se soumet** à une contrainte qui ne nous laisse aucun choix (exemples : je me soumets à la gravitation si je me jette dans le vide, au voleur qui me menace avec une arme)
-  - **On obéit** à une loi, morale ou civile, avec la liberté d'y désobéir (exemples : ne pas mentir, payer ses impôts)
+  - **On obéit** à une loi, morale ou civile, avec la liberté d'y désobéir (exemples : ne pas mentir, payer ses impôts)  
 
-Être libre, c'est donc vivre sans contraintes, mais pas sans obligations.
+La liberté est donc absence de contraintes, mais pas d'obligations.
+
+-> Voir les repères conceptuels [*obligation – contrainte*](/manuel/Repères/obligation).  
 :::
 
 :::info[problématiques]
