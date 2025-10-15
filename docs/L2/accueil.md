@@ -10,9 +10,9 @@ id: accueil
   - [2. La pensée est-elle le propre de l’homme ?](/docs/L2/2/)
   - [3. Suffit-il à une machine de parler pour penser ?](/docs/L2/3)
 - **Perspectives**  : 1. L'existence et la culture ; 3. La connaissance
-- **Notions principales** : `RAISON`,   
+- **Notion principale** : `RAISON`   
 - *Notions complémentaires* : *`Nature`, `technique`, `langage`, `conscience`* 
-- *Repères conceptuels* : [*Croire – Savoir*](/manuel/Repères/croire)
+- *Repères conceptuels* : [*Croire – Savoir*](/manuel/Repères/croire) ; [*Expliquer – Comprendre*](/manuel/Repères/expliquer)
 - **Méthode** : Conceptualiser
 - **Auteurs étudiés** : René Descartes, Montaigne, Alan Turing, John Searle   
 - **Travaux** :
@@ -20,6 +20,3 @@ id: accueil
   - **Écrire une courte synthèse de la leçon leçon lorsqu'elle est terminée** (vous pourrez être interrogés au début de la leçon suivante) : Qu’est-ce que j’ai retenu ? *(Je note les idées-clés que je retiens de la leçon, les thèses des auteurs lus ou les questions qu’ils posent)* 
   - **Activité** : Réalisation d'un podcast pour la semaine des lycées français du monde.
 
-:::tip[illustration]
-= vert
-:::
