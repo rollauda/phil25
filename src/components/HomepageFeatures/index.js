@@ -15,7 +15,7 @@ const FeatureList = [
     to: '/methode/intro',
   },
   {
-    title: 'Manuel',
+    title: 'Abécédaire',
     Svg: require('@site/static/img/manuel.svg').default,
     to: '/manuel/intro',
   },
@@ -51,3 +51,4 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+

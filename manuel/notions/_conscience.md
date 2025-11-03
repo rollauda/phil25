@@ -1,5 +1,0 @@
----
-title: Conscience
----
-
-# La conscience

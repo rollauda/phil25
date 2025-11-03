@@ -1,0 +1,15 @@
+---
+title: Fonctionnalisme
+---
+# Fonctionnalisme
+
+:::note[Définition]
+Le **fonctionnalisme** est un courant philosophique dans le domaine des théories de l'esprit qui tente d'expliquer en quoi consiste la pensée. Sa thèse principale est que la pensée ne se définit pas par une qualité interne (la conscience), mais par la réalisation de certaines fonctions (calculer, raisonner). Pour penser, il n'est donc pas nécessaire d'être conscient : il suffit de raisonner, calculer, résoudre des problèmes, ce qui est la fonction principale de la pensée. 
+:::
+
+:::tip[Développement]
+- Le **fonctionnalisme** est la théorie selon laquelle les **états mentaux** (*tout ce qui nous passe par "l'esprit" : une sensation, une croyance, une pensée, un désir, etc.*) ne sont pas définis par leur constitution interne, mais par leur fonctionnement, c'est-à-dire par le lien entre des causes et leurs effets. Un état mental est caractérisé par **deux éléments principaux** : l'**entrée** (*input*, **la cause** : ce qui provoque un état mental), et la **sortie** (*output*, l'**effet** : les comportements ou actions que produit ce état). Par exemple, la croyance qu'il va pleuvoir est définie par ce qui la provoque (voir des nuages sombres, entendre les prévisions météorologiques, etc), et par les comportements qu'elle déclenche (chercher son imperméable, fermer les fenêtres).
+- Le **computationnalisme** est un prolongement du fonctionnalisme, qui conçoit l'esprit comme un système de traitement de l'information et compare la pensée à un calcul (en anglais : *computation*, qui donne *computer*, ordinateur). Puisqu'une machine est capable de recevoir des données (l'entrée du processus) et d'y répondre par des comportements (l'effet), alors, on peut considérer qu'une machine est capable de penser.
+- Le fonctionnalisme et le computationnalisme sont des **théories [matérialistes](/manuel/courants/matérialisme) (ou "physicalistes")** : elles conçoivent la pensée comme unn fonction qui peut naître de la matière (un cerveau animal, un système d'exploitation informatique). Il n'y a donc pas besoin de postuler l'existence de l'âme, d'un esprit immatériel ou de la conscience pour comprendre le phénomène de la pensée.
+- On peut opposer au fonctionnalisme et au computationnalisme l'idée que la pensée s'accompagne toujours d'une forme de [conscience](/manuel/notions/conscience), que la philosophie contemporaine nomme "**conscience phénoménale**". La conscience phénoménale est le "vécu", le "ressenti" mental et corporel qui accompagne une expérience. On appelle "**qualia**" ce contenu subjectif de l'expérience d'un état mental : lorsque je pense, je sais que je pense et je me "sens" penser (la pensée s'accompagne d'un *qualia*), et cette expérience ne peut pas s'expliquer seulement par le fonctionnement de mon cerveau. Les êtres vivants possèdent donc cette conscience phénoménale, et les machines, qui n'ont pas de corps, pas de vécu subjectif ou de "qualia", ne peuvent donc pas réellement penser.
+:::

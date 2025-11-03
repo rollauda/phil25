@@ -131,7 +131,7 @@ const config = {
           },
           {
             to: '/manuel/intro', // Pointe vers le fichier intro.md
-            label: 'Manuel', 
+            label: 'Abécédaire', 
             position: 'left',
             activeBaseRegex: `/manuel/`, // Pour mettre en surbrillance l'élément actif
           },

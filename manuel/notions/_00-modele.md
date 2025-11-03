@@ -15,11 +15,11 @@ title: Notion
 
 :::
 
-:::info[problématiques]
+:::info[Questions]
 
 :::
 
-:::warning[Grandes thèses et arguments vue en cours]
+:::warning[problématiques, Grandes thèses et arguments vue en cours]
 
 :::
 
