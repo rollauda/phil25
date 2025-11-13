@@ -5,7 +5,6 @@ id: accueil
 # Leçon 2 : Une Intelligence artificielle pense-t-elle vraiment ?
 
 - **Plan de la leçon** : 
-  - [Présentation](/docs/L2/0/intro)
   - [1. Qu’est-ce qu’une IA ?](/docs/L2/1/)
   - [2. La pensée est-elle le propre de l’homme ?](/docs/L2/2/)
   - [3. Suffit-il à une machine de parler pour penser ?](/docs/L2/3)
