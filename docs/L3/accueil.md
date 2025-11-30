@@ -11,7 +11,7 @@ id: accueil
 - **Perspectives**  : 3. La connaissance ; 1. L'existence et la culture 
 - **Notions principales** : `CONSCIENCE`, `SCIENCE`  
 - *Notions complémentaires* : *`Nature`, `Liberté`, `Justice`* 
-- *Repères conceptuels* : *croire/savoir* ; *objectif/subjectif* ; *universel/général/particulier/singulier*
+- *Repères conceptuels* : *[croire/savoir](/manuel/Repères/croire)* ; *[objectif/subjectif](/manuel/Repères/objectif)* ; *[universel/général/particulier/singulier](/manuel/Repères/universel)*
 - **Méthode** : l'explication de texte
 - **Auteurs étudiés** : J.P. Changeux, D. Chalmers, H. Bergson, E. Kant, J. Proust   
 - **Travaux** :

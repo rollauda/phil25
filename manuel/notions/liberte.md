@@ -24,15 +24,27 @@ La liberté est donc absence de contraintes, mais pas d'obligations.
 -> Voir les repères conceptuels [*obligation – contrainte*](/manuel/Repères/obligation).  
 :::
 
-:::info[problématiques, Grandes thèses et arguments vue en cours]
+ :::info[Questions]
+- [Leçon 1](/docs/L1/accueil) : 
+   - La liberté est-elle le droit absolu d'accomplir tout ce que la [**nature**](/manuel/notions/nature.md) nous permet de faire, sans restrictions sociales ou morales ?
+   - La liberté se limite-t-elle à accepter notre sort, à juger objectivement ce qui nous arrive sans tenter de le changer ?
+ - [Leçon 3](/docs/L3/accueil) : 
+   - Faut-il être [**conscient**](/manuel/notions/conscience.md) pour être libre ?
+   - La liberté est-elle le propre de l'homme ?
+:::
+
+:::warning[problématiques, Grandes thèses et arguments vue en cours]
 - [**Leçon 1, debat entre Socrate et Calliclés (Platon, *Gorgias*)**](/docs/L1/2/2-1/2-1). Les normes morales et sociales s'opposent-elles à la liberté, nous empêchent-elles d'être libre ? Ou, au contraire, ces règles, en permettant l'égalité, rendent-elles tout le monde libre ? 
   - Être libre, est-ce laisser libre cours à ses désirs et passions, ou est-ce, au contraire, limiter notre liberté et savoir se contenter de peu ?
     - **Calliclès** défend une **liberté naturelle** qui consiste à obéir à ce que la nature commande plutôt qu'aux conventions sociales. Être libre, c'est donc laisser libre cours à nos désirs, faire ce que la nature nous dit de vouloir.
     - À l'inverse, **Socrate** voit la liberté comme la capacité à se limiter soi-même dans ses désirs, à se contenter raisonnablement de ce que nous possédons.
 - [**Leçon 1, Épictète**](/docs/L1/2/2-1/2-1). Qu'est-ce qu'être libre et comment le devenir ? Être libre, est-ce élargir au maximum nos possibilités d'agir, se rendre indépendant en nous libérant des contraintes qui entravent nos désirs ? Ou est-ce au contraire comprendre que notre liberté se limite à ce qui dépend de nous, et accepter notre sort sans désirer le changer, pour se concentrer sur la réelle liberté, l'indépendance intérieure ?    
   -> **Épictète**, dans son "Manuel", défend une liberté intérieure qui consiste à : 
-  - se soumettre à la nécessité, à l'accepter plutôt qu'à la changer
+  - se soumettre au destin, à l'accepter plutôt qu'à le changer.
   - se concentrer sur ce qui est réellement libre et sans contrainte en nous : penser, juger, vouloir.
+- [**Leçon 3, Henri Bergson**](/docs/L3/2#h-bergson--il-y-a-plus-dans-la-conscience-que-dans-le-cerveau-qui-lui-correspond) : « *Conscience est synonyme d'invention et de liberté. Or chez l'animal, l'invention n'est jamais qu'une variation sur le thème de la routine.* »
+   - Bergson définit la liberté comme la capacité à interrompre le routine de l'instinct qui nous pousse à réagir à un stimulus de manière automatique. Être libre, c'est donc prendre le temps d'examiner les différents choix qui se présentent à nous. Cette suspension du temps, ce moment d'arrêt et de réflexion implique la [**conscience**](/manuel/notions/conscience.md) de ce que nous voulons faire, la capacité à se projeter dans l'avenir et à inventer des solutions inédites aux problèmes qui se posent à nous.
+   - Cette conscience et cette liberté seraient limitées dans le monde animal : les animaux peuvent échapper par moments à l'automatisme de l'instinct (en ce sens, ils sont donc en partie conscients), mais ils retombent naturellement dans les habitudes biologiques de leur espèce. Chez l'homme, en revanche, la liberté est capable de remplacer totalement l'instinct.
 :::
 
 

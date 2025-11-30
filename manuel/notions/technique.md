@@ -7,7 +7,7 @@ title: Technique
 *La page sera complétée pendant l'année lorsque la notion sera de nouveau abordée.*
 
 :::note[Définition simple]
-La technique est l'ensemble des procédés artificiels inventés par les êtres humains pour satisfaire leurs besoins.
+La technique est l'ensemble des procédés artificiels inventés par les êtres humains et certains animaux pour satisfaire leurs besoins.
 :::
 
 :::tip[Définition approfondie]
