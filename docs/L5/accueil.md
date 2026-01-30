@@ -4,11 +4,10 @@ id: accueil
 ---
 # Leçon 5 : Sommes-nous libres ?
 
-- **Plan de la leçon** : 
-  - [Introduction]
-  - [1. Quelles sont les différentes manières d’être libre ?]
-  - [2. Qu’est-ce qui nous empêche d’être libre ?]
-  - [3. Peut-on se libérer des contraintes ?]
+- **Plan de la leçon** :
+  - [1. Quelles sont les différentes manières d’être libre ?](/docs/L5/1/)
+  - [2. Qu’est-ce qui nous empêche d’être libre ?](/docs/L5/2/)
+  - [3. Peut-on se libérer des contraintes ?](/docs/L5/3/)
 - **Perspectives**  : 1. L'existence et la culture ; 2. La morale et la politique ; 3. La connaissance 
 - **Notions principales** : `LIBERTÉ`  
 - *Notions complémentaires* : *`Nature`*, *`Raison`*, *`Devoir`*, *`Religion`* 
