@@ -15,10 +15,10 @@ const config = {
   favicon: 'img/philo.svg',
 
   // Set the production url of your site here
-  url: 'https://rollauda.github.io',
+  url: 'https://philo.profauda.fr',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub Pages deployment
-  baseUrl: '/phil25/',
+  // For custom domain, use '/'
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
