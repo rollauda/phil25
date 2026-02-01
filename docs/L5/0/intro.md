@@ -28,9 +28,9 @@ Le court-métrage d'animation de Vincent Bierrewaerts, *Le Portefeuille*, met en
 :::
 
 :::warning[exercice]
-1. Que suppose-t-on si l'on dit qu'il était possible à l'homme de ne pas ramasser ce portefeuille ? 3. 
-2. Était-il nécessaire que le personnage se fasse tuer après qu'il a ouvert la porte et interrompu la réunion ? 4. 
-3. Tous les actes du personnage principal de ce film sont-ils contingents ? Pourquoi ? 5. 
+1. Que suppose-t-on si l'on dit qu'il était possible à l'homme de ne pas ramasser ce portefeuille ? 
+2. Était-il nécessaire que le personnage se fasse tuer après qu'il a ouvert la porte et interrompu la réunion ?
+3. Tous les actes du personnage principal de ce film sont-ils contingents ? Pourquoi ?
 4. Pourquoi le fait d'affirmer que ce personnage est libre de choisir son existence pose-t-il problème ?
 :::
 
