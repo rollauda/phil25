@@ -1,5 +1,0 @@
----
-title: Devoir
----
-
-# Le devoir
