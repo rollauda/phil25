@@ -10,7 +10,7 @@ id: accueil
   - [3. Le langage, propre de l'humain](../L6/3/3.md)
 - **Perspectives** : L'existence humaine et la culture ; La morale et la politique ; La connaissance
 - **Notions principales** : `NATURE`, `TECHNIQUE`, `LANGAGE`
-- *Notions complémentaires* : *`Raison`*, *`Conscience`*, *`Liberté`*, *`Bonheur`, *`Justice`*
+- *Notions complémentaires* : *`Raison`*, *`Conscience`*, *`Liberté`*, *`Bonheur`*, *`Justice`*
 - *Repères conceptuels* : *[Essentiel/Accidentel](/manuel/Repères/essentiel)*
 - **Méthode** : utiliser une référence culturelle dans une dissertation ou une explication de texte.
 - **Auteurs étudiés** : Lévi-Strauss, Bergson, Sloterdijk, Aristote
