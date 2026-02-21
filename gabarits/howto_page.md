@@ -79,7 +79,8 @@ Puis dans le fichier :
 
 #### google
 
-<iframe src="https://drive.google.com/file/d/1W8CUzhPTo4OaazhEb9amSgqAaT-pOQnA/preview" width="800" height="450" allow="autoplay"></iframe>
+
+<iframe width="800" height="450" src="https://drive.google.com/file/d/1W8CUzhPTo4OaazhEb9amSgqAaT-pOQnA/preview" title="Google video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### locale
 

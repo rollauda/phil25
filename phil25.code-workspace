@@ -2,15 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../dgemc25"
-		},
-		{
-			"path": "../hlp25"
-		},
-		{
-			"path": "../cav25"
 		}
 	],
 	"settings": {}

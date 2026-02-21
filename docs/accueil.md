@@ -12,5 +12,6 @@ title: Accueil
 - [Leçon 3 – Peut-on expliquer scientifiquement la conscience ?](/docs/L3/accueil.md)
 - [Leçon 4 – Suis-je celle ou celui que je pense être ?](/docs/L4/accueil.md)
 - [Leçon 5 – Sommes-nous libres ?](/docs/L5/accueil.md)
+- [Leçon 6 – Qu'est-ce qui nous fait humain ?](/docs/L6/accueil.md)
 :::
 
