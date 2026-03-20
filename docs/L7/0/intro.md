@@ -17,12 +17,6 @@ Ce n’est qu’avec l’apparition de la catégorie des “beaux-arts” (terme
 
 ## Trois éléments classiques de distinction entre ce qui est de l’art et ce qui n’en est pas
 
-| Portrait du docteur Rey, 1889 | Détournememt de la citation de Picasso par Ben Vautier | Centre Georges Pompidou (Beaucourg), Paris |
-| --- | --- | --- |
-| <img src={require('/img/philo/rey.jpg').default} alt="Description" width="1500%" /> | <img src={require('/img/philo/ben-cherche.webp').default} alt="Description" width="1000%" /> | <img src={require('/img/philo/beaubourg.jpg').default} alt="Description" width="80%" /> |
-
-
-
 :::info[1. La finalité]
 L’œuvre d’art se distingue par sa finalité, qui n’est pas la même que celle d’un outil : elle n’a pas de vocation utilitaire. L’objet de l’artisan ou de l’industrie n’a pas de valeur en lui-même : il sert à quelque chose, il est outil qui a une fonction. L’œuvre d’art ne peut pas servir à quelque chose : on ne la manipule pas, on la contemple.  
 **Anecdote de Van Gogh** : en 1889, hospitalisé, il peint le portrait de son docteur (Rey) et lui offre. Le docteur trouve ce portrait invraisemblable et ridicule, le range pendant plus de dix ans dans un poulailler afin de boucher un trou, puis l’oublie dans un grenier. Il sera ensuite retrouvé et vendu. En plus d’interroger sur le statut de l’artiste, qui n’est pas toujours reconnu de son vivant, ce fait pose le problème de notre rapport aux œuvres d’art : les utiliser, c’est en nier leur vocation artistique. Si on met de la musique pour séduire quelqu’un, ou un tableau pour décorer son intérieur, alors la musique et la peinture ne sont plus que des outils : on ne les apprécie pas pour ce qu’ils sont, mais pour ce à quoi ils servent. Ils ne sont plus que des moyens, et pas des fins en soi.  
@@ -38,3 +32,10 @@ L’œuvre d’art se distingue ensuite par ses moyens, par sa mise en œuvre : 
 Enfin, l’œuvre d’art se définit aussi par son contexte : on la joue sur scène, on l’expose dans un musée, elle s’accompagne de critiques dans des journaux, de théorie dans des ouvrages de philosophie de l’art, de réactions du public… Pour qu’un objet soit considéré comme œuvre d’art, il doit donc être reconnu comme tel par un ensemble d’acteurs : public, critiques d’art, philosophes, la communauté artistique, l’État qui subventionne.  
 **Problème** : si l’art est relatif à son contexte, alors tout peut-il devenir art, à partir du moment où cela entre au bon endroit, par exemple un musée ? Fontaine, de Duchamp (qui avait d’abord été refusée par le MOMA de New York) est-elle réellement une œuvre d’art ?  (Voir annexes 1 en fin de leçon)
 :::
+
+## Exemples
+
+| Portrait du docteur Rey, 1889 | Détournememt de la citation de Picasso par Ben Vautier | Centre Georges Pompidou (Beaucourg), Paris |
+| --- | --- | --- |
+| <a href="/img/philo/rey.jpg" target="_blank" rel="noopener noreferrer"><img src={require('/img/philo/rey.jpg').default} alt="Description" width="100%" style={{maxWidth: "100%", height: "auto"}} /></a> | <a href="/img/philo/ben-cherche.webp" target="_blank" rel="noopener noreferrer"><img src={require('/img/philo/ben-cherche.webp').default} alt="Description" width="100%" style={{maxWidth: "100%", height: "auto"}} /></a> | <a href="/img/philo/beaubourg.jpg" target="_blank" rel="noopener noreferrer"><img src={require('/img/philo/beaubourg.jpg').default} alt="Description" width="100%" style={{maxWidth: "100%", height: "auto"}} /></a> |
+| Pourquoi cette œuvre n'est-elle pas un objet technique ? | Quelle thèse ce message remet-il en question ? | Suffit-il à un objet d'être exposé dans le musée Beaubourg pour être une œuvre d'art ? |
