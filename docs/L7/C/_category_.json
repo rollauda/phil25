@@ -1,0 +1,8 @@
+{
+  "label": "Leçon complémentaire",
+  "position": 10,
+  "link": {
+    "type": "doc",
+    "id": "complement"
+  }
+}
