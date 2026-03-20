@@ -20,7 +20,7 @@ git commit -m "Update" && git push
 - **180 heures gratuites par mois** (au lieu de 60h)
 - **20 GB de stockage gratuit**
 - Accès aux instances plus puissantes
-
+ 
 ### Auto-configuration recommandée
 Créer `.devcontainer/devcontainer.json` dans votre repo :
 
