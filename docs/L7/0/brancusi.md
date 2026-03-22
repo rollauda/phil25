@@ -19,7 +19,7 @@ sidebar_position: 2
 
 :::warning[le problème]
 **Comment prouver qu’une chose est une œuvre d’art ? Comment distinguer une « œuvre d’art » d’un « objet utilitaire » ?**
-<iframe width="800" height="450" src="https://www.youtube.com/embed/5kac_vQwAug?si=I4JVUq9m7-RUqvwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="650" height="375" src="https://www.youtube.com/embed/5kac_vQwAug?si=I4JVUq9m7-RUqvwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 
 :::info[LA LOI AMÉRICAINE À L’ÉPOQUE]

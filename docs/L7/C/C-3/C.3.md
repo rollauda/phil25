@@ -23,7 +23,7 @@ Voir les œuvres suivantes de Boltanski, Abramović et Serrano.
 
 :::tip[Personnes]
 
-<center><iframe src="https://www.youtube.com/embed/Lv7tatnhFAc?si=0zmmK03dq_izQiGt" width="100%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></center>
+<iframe src="https://www.youtube.com/embed/Lv7tatnhFAc?si=0zmmK03dq_izQiGt" width="80%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 :::
 
 ### Marina Abramović
@@ -42,15 +42,14 @@ Née le 30 novembre 1946 à Belgrade, Marina Abramović est une artiste contempo
 :::danger[Vidéos de performances]
 **Rythm 0**
 
-<center><iframe src="https://www.youtube.com/embed/TdFyVyS0N7k?si=qRRl98Ccm4kO90IA" width="100%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></center>
+<iframe src="https://www.youtube.com/embed/TdFyVyS0N7k?si=qRRl98Ccm4kO90IA" width="80%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 
 **The Onion**
 
-<center><iframe src="https://www.youtube.com/embed/ISZGZw5LQvo?si=bANDDUlnBIJYaCmd" width="100%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></center>
-
+<iframe src="https://www.youtube.com/embed/ISZGZw5LQvo?si=bANDDUlnBIJYaCmd" width="80%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 **The artist is present**
 
-<center><iframe src="https://www.youtube.com/embed/ryd__J7nits?si=1pkujVKCOBAtejnp" width="100%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></center>
+<iframe src="https://www.youtube.com/embed/ryd__J7nits?si=1pkujVKCOBAtejnp" width="80%" style={{aspectRatio: "560/315"}} frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
 :::
 
 ## La fonction cathartique de l’art
@@ -84,12 +83,12 @@ Selon Aristote, purification de l'âme ou purgation des passions du spectateur p
 
 :::tip[Bande annonce] 
 
-<iframe src="https://drive.google.com/file/d/1XqNTBXSfngeuMA-R3v_hMvoJt9tIzMAa/preview" width="100%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XqNTBXSfngeuMA-R3v_hMvoJt9tIzMAa/preview" width="80%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
 :::
 
 :::note[Extrait n°1]
 
-<iframe src="https://drive.google.com/file/d/1XaGykeqBqLptBGJrlJUNNphC6USPBUuZ/preview" width="100%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XaGykeqBqLptBGJrlJUNNphC6USPBUuZ/preview" width="80%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
 
 **Passage correspondant dans l'œuvre de Sénèque**
 
@@ -100,7 +99,7 @@ Selon Aristote, purification de l'âme ou purgation des passions du spectateur p
 
 :::info[ Extrait n°2]
 
-<iframe src="https://drive.google.com/file/d/1XUYy3UY3pBWx3hlCy40vPkm0UFe8QQcC/preview" width="100%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XUYy3UY3pBWx3hlCy40vPkm0UFe8QQcC/preview" width="80%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
 
 **Passage correspondant dans l'œuvre de Sénèque** 
 
@@ -109,8 +108,8 @@ Selon Aristote, purification de l'âme ou purgation des passions du spectateur p
 
 :::danger[Extraits n°3 et n°4 : le repas]
 
-<iframe src="https://drive.google.com/file/d/1XnAPTUrWl5cg-F0pteA7ahv4GqwOfue6/preview" width="100%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XnAPTUrWl5cg-F0pteA7ahv4GqwOfue6/preview" width="80%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
 
 
-<iframe src="https://drive.google.com/file/d/1Xp6PZfaSVgaMUv8eZ-jWE1d6yWGOb36T/preview" width="100%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Xp6PZfaSVgaMUv8eZ-jWE1d6yWGOb36T/preview" width="80%" style={{aspectRatio: "735/450"}} frameborder="0" allow="autoplay"></iframe>
 :::
