@@ -12,7 +12,7 @@ id: accueil
   - [Leçon complémentaire : Quelles sont les fonctions de l'art ?](./C/complement.md)
 - **Perspectives**  : 1. L'existence et la culture ; 2. La morale et la politique ; 3. La connaissance 
 - **Notions principales** : `ART`, `TRAVAIL` 
-- *Notions complémentaires* : *`technique`, `nature`, `conscience`, `bonheur`, `liberté`* 
+- *Notions complémentaires* : *`technique`, `nature`, `conscience`, `bonheur`, `liberté`, `temps`* 
 - **Auteurs étudiés** : Alain, Kant, Nietzsche, Aristote, Hegel, Russel, Arendt, Bazin   
 - **Travaux** :
   - **Reprendre dans un carnet les définitions du cours à retenir**. 

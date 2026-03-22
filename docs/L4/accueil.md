@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: accueil
 ---
-# Leçon 4 : Suis-je celle ou celui que je pense être ?
+# Leçon 4 : Suis-je celle ou celui que je pense être ?
 
 - **Plan de la leçon** : 
   - [Introduction : Le problème de l'identité personnelle](/docs/L4/0/intro.md)
