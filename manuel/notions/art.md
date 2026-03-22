@@ -28,11 +28,11 @@ L’origine commune des mots **art** et [**technique**](/manuel/notions/techniqu
 
 :::warning[problématiques, Grandes thèses et arguments vue en cours]
 - [**Leçon principale (n°7)**](/docs/L7/accueil)
-  - [**L’art, du travail ou de l’inspiration ?**](/docs/L7/1/1.md) 
+  - [**L’art, du travail ou de l’inspiration ?**](/docs/L7/1/) 
     - **Alain** distingue l'art du [travail](/manuel/notions/travail.md) : le travail est une activité qui suit des règles, et dans laquelle l'artisan pense, planifie, et ensuite fabrique à l'aide de [techniques](/manuel/notions/technique.md). L'art, au contraire, est une activité qui ne suit pas de règles préétablies, et dans laquelle l'artiste crée de manière spontanée, découvrant son œuvre pendant qu'elle se fait.
     - **Kant** voit dans le grand artiste un génie inspiré, qui est (1) **original** (il crée sans partir de règles connues), (2) **exemplaire** (il sert de modèle à d'autres artistes) et (3) qui **ne sait pas d'où lui vient son génie**, puisqu'il est un don de la nature.
     - **Nietzsche** critique cette idée de génie : il n'existe pas de génie inspiré, mais seulement des artistes qui travaillent plus que les autres et consacrent leur vie à leur art. Si nous croyons au génie, c'est parce que nous ne voyons pas les artistes au travail mais contemplons leurs œuvres achevées, mais aussi parce que nous n'aimons pas le travail et préférons croire que certains réussissent sans effort.
-- [**Pourquoi avons-nous besoin d'art ?**](/docs/L7/3/3.md) 
+- [**Pourquoi avons-nous besoin d'art ?**](/docs/L7/3/) 
     - **Hannah Arendt** distingue les **œuvre d'art** des **objets [techniques](/manuel/notions/technique.md)** (ou *objets d'usages*, voués à être utilisés) par leur temporalité : les objets techniques sont faits pour être utilisés, et sont donc périssables, tandis que les œuvres d'art sont faites pour durer. C'est dans leur rapport au monde que les œuvres d'art se distinguent des objets techniques : les outils sont fabriqués pour les hommes, consommables et destinées à disparaître, alors que les œuvres d'art sont *mondaines*, faites pour le monde et non pour les hommes.
     - Le critique de cinéma **André Bazin** nous explique ce rapport entre l'art, le temps et le monde : l'œuvre d'art a pour finalité première de lutter contre le devenir, contre le temps qui passe et qui détruit les choses. Par son réalisme et figuratisme (imiter la nature), l'art crée une image du réel et le fige dans le temps, lui donnant une forme d'immortalité. L'art est ainsi un moyen de lutter contre la mort, de faire durer les choses, de les rendre éternelles.
 :::
