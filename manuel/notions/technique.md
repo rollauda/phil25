@@ -21,8 +21,8 @@ La technique est ce qui permet aux êtres humains de construire et inventer leur
 
 :::info[Questions]
 - [**Leçon principale (n°6)**](/docs/L6/accueil)
-  - Les techniques humaines sont-elles naturelles, ou au contraire artificielles ? La technique est-elle un prolongement de la nature, ou une rupture avec elle ?
-  - Les techniques humaines sont-elles le propre de l'homme, ou les animaux sont-ils aussi capables de techniques ? 
+  - Les techniques sont-elles naturelles, ou au contraire artificielles ? La technique est-elle un prolongement de la nature, ou une rupture avec elle ?
+  - La techniquea est-elle le propre de l'homme, ou les animaux sont-ils aussi capables de technique ? 
 :::
 
 :::warning[problématiques, Grandes thèses et arguments vue en cours]
@@ -33,5 +33,5 @@ La technique est ce qui permet aux êtres humains de construire et inventer leur
     - Pour **Sloterdijk**, "*l'homme descend de la pierre*" : l'utilisation de la première pierre dans notre préhistoire inaugure la *proto-technique* et l'entrée dans la culture. C’est la technique, et non la biologie ("*l'homme descend du singe*"), qui constitue le seuil de l’humanité. La technique est aussi à l'origine de notre rapport à la [vérité](/manuel/notions/vérité.md), à notre désir de créer des discours conformes au réel : en lançant une pierre (par exemple pour chasser), en suivant la pierre du regard pour vérifier si elle atteint son objectif, nous inventons l'idée de concordance entre nos représentations et la réalité. 
       - La [**Leçon 2**](/docs/L2/2/2-1/2-1) donne l'exemple des chimpanzés qui modifient leur environnement en utilisant des caisses comme échelles pour atteindre des bananes dans des arbres.
       - La [**fiche complémentaire sur les techniques animales**](/docs/L6/2/2-1/2-1) montre comment la science nous prouve que les animaux sont en réalité capables de techniques, et s'interroge sur la raison pour laquelle nous leur refusons toute culture pour les maintenir dans la nature. 
-    - [**Leçon 2, le test de Turing**](/docs/L2/3/) **: la technique peut-elle créer des machines qui pensent ?** Le test de Turing, qui consiste à faire dialoguer une machine avec un humain et à demander à un juge de déterminer lequel des deux est la machine, est une tentative de définir l'intelligence artificielle. Si la machine réussit le test, elle peut être considérée, selon Alan Turing, comme intelligente, c'est-à-dire capable de penser. Mais le philosophe John R. Searle conteste cette idée avec l'[**expérience de pensée de la chambre chinoise**](https://fr.wikipedia.org/wiki/Chambre_chinoise) : une machine ne pense pas réellement, car elle ne comprend pas ce qu'elle énonce.
+- [**Leçon 2, le test de Turing**](/docs/L2/3/) **: la technique peut-elle créer des machines qui pensent ?** Le test de Turing, qui consiste à faire dialoguer une machine avec un humain et à demander à un juge de déterminer lequel des deux est la machine, est une tentative de définir l'intelligence artificielle. Si la machine réussit le test, elle peut être considérée, selon Alan Turing, comme intelligente, c'est-à-dire capable de penser. Mais le philosophe John R. Searle conteste cette idée avec l'[**expérience de pensée de la chambre chinoise**](https://fr.wikipedia.org/wiki/Chambre_chinoise) : une machine ne pense pas réellement, car elle ne comprend pas ce qu'elle énonce.
 :::
