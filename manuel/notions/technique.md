@@ -23,6 +23,11 @@ La technique est ce qui permet aux êtres humains de construire et inventer leur
 - [**Leçon principale (n°6)**](/docs/L6/accueil)
   - Les techniques sont-elles naturelles, ou au contraire artificielles ? La technique est-elle un prolongement de la nature, ou une rupture avec elle ?
   - La techniquea est-elle le propre de l'homme, ou les animaux sont-ils aussi capables de technique ? 
+- [Leçon 2](/docs/L2/3/) : 
+  - Les animaux sont-ils capables de technique ?
+  - La technique peut-elle créer des machines qui pensent ?
+- [Leçon 7](/docs/L7/0/intro) : 
+  - L'art se distingue-t-il de la technique ? L'artiste créé-t-il des œuvres grâce a des techniques maîtrisées ou grâce à des dons naturels ?
 :::
 
 :::warning[problématiques, Grandes thèses et arguments vue en cours]
@@ -34,4 +39,6 @@ La technique est ce qui permet aux êtres humains de construire et inventer leur
       - La [**Leçon 2**](/docs/L2/2/2-1/2-1) donne l'exemple des chimpanzés qui modifient leur environnement en utilisant des caisses comme échelles pour atteindre des bananes dans des arbres.
       - La [**fiche complémentaire sur les techniques animales**](/docs/L6/2/2-1/2-1) montre comment la science nous prouve que les animaux sont en réalité capables de techniques, et s'interroge sur la raison pour laquelle nous leur refusons toute culture pour les maintenir dans la nature. 
 - [**Leçon 2, le test de Turing**](/docs/L2/3/) **: la technique peut-elle créer des machines qui pensent ?** Le test de Turing, qui consiste à faire dialoguer une machine avec un humain et à demander à un juge de déterminer lequel des deux est la machine, est une tentative de définir l'intelligence artificielle. Si la machine réussit le test, elle peut être considérée, selon Alan Turing, comme intelligente, c'est-à-dire capable de penser. Mais le philosophe John R. Searle conteste cette idée avec l'[**expérience de pensée de la chambre chinoise**](https://fr.wikipedia.org/wiki/Chambre_chinoise) : une machine ne pense pas réellement, car elle ne comprend pas ce qu'elle énonce.
+- [**Leçon 7**](/docs/L7/0/intro) **: l'art se distingue-t-il de la technique ?** L’origine commune des mots **art** et **technique** (*ars* en latin et *tekhne* en grec, qui signifient “savoir-faire”, racine commune de *artiste* et *artisan*) nous montre que, pendant longtemps, on n'a pas distingué les œuvres d'art des objets techniques, et que les artistes étaient considérés comme des artisans. C’est seulement à partir du 18ème siècle, avec l'apparition de la catégorie des “beaux-arts”, que les artistes se sont évadés du domaine des “Arts et Métiers”.
+  - On distingue en général une œuvre d'art d'un objet technique par leur **finalité** : l'œuvre d'art est un objet ou une création voués à être contemplés, et non à être utilisés comme un outil. Pour [**Hannah Arendt**](/docs/L7/3/), les outils ou objets d'usages sont consommables et périssables, alors que les œiuvres d'art dépassent en durée les hommes et sont faites pour le monde. 
 :::

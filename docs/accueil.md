@@ -18,7 +18,7 @@ title: Accueil
 
 :::warning[Notions achevées]
 - [x] Bonheur : [Leçon 1](/docs/L1/accueil.md)
-- [x] raison : [Leçon 1](/docs/L1/accueil.md), [Leçon 2](/docs/L2/accueil.md)
+- [x] Raison : [Leçon 1](/docs/L1/accueil.md), [Leçon 2](/docs/L2/accueil.md)
 - [x] Science : [Leçon 3](/docs/L3/accueil.md)
 - [x] Conscience : [Leçon 3](/docs/L3/accueil.md), [Leçon 4](/docs/L4/accueil.md)
 - [x] Inconscient : [Leçon 4](/docs/L4/accueil.md)

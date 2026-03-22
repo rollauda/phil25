@@ -6,10 +6,10 @@ id: accueil
 
 - **Plan de la leçon** : 
   - [Introduction : art, travail et technique](./0/intro.md)
-  - [1.L’art, du travail ou de l’inspiration ?](./1/1.md)
-  - [2.Le travail est-il la plus haute activité humaine ?](./2/2.md)
-  - [3.Pourquoi avons-nous besoin d’art ?](./3/3.md)
-  - [Leçon complémentaire : Quelles sont les fonctions de l'art ?](./C/complement.md)
+  - [1. L’art, du travail ou de l’inspiration ?](./1/1.md)
+  - [2. Le travail est-il la plus haute activité humaine ?](./2/2.md)
+  - [3. Pourquoi avons-nous besoin d’art ?](./3/3.md)
+  - [**Leçon complémentaire** : Quelles sont les fonctions de l'art ?](./C/complement.md)
 - **Perspectives**  : 1. L'existence et la culture ; 2. La morale et la politique ; 3. La connaissance 
 - **Notions principales** : `ART`, `TRAVAIL` 
 - *Notions complémentaires* : *`technique`, `nature`, `conscience`, `bonheur`, `liberté`, `temps`* 
