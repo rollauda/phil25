@@ -8,7 +8,8 @@ title: Nature
 
 
 :::note[Définition simple]
-La nature est tout ce qui s'oppose à la culture. La culture étant tout ce que l'humain a inventé au cours de son histoire, aussi bien matériellement (outils, ouvrages, inventions, etc.) que spirituellement (morales, systèmes juridiques et politiques, religions, sciences, etc.), la nature est donc tout ce qui existe indépendamment de l'être humain.
+La nature est tout ce qui s'oppose à la culture. La culture étant tout ce que l'humain a inventé au cours de son histoire, aussi bien matériellement (outils, ouvrages, inventions, etc.) que spirituellement (morales, systèmes juridiques et politiques, religions, sciences, etc.), la nature est donc tout ce qui existe indépendamment de l'être humain.   
+➡ Voir la [carte mentale sur la nature](https://www.profauda.fr/schemas/cartes/nature.html)
 
 :::
 

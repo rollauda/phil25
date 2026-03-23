@@ -12,6 +12,7 @@ Du latin *scientia* (savoir), une science est un ensemble de connaissances qui e
 :::
 
 :::tip[Définition approfondie]
+- ➡ Voir la [carte mentale](https://www.profauda.fr/schemas/cartes/sciences.html).
 - En tant que **savoir**, la science s'oppose à la croyance. Le savoir scientifique apporte des connaissances solides, certifiées par des preuves (faits, expérimentations) ou des arguments (raisonnements, démonstrations). Une croyance est une affirmation vraisemblable, qui n'est pas certaine car sans preuves ou démonstrations. On peut distinguer les croyances faibles (reposant sur des préjugés) des croyances fortes (reposant sur des dogmes, comme dans les religions et les idéologies).
 - Une science se définit par son **objet** d'étude, ce qu'elle tente d'expliquer : il peut s'agir des phénomènes naturels (étudiés par les sciences expérimentales, ou sciences de la nature), d'idées telles que les nombres et les figures (étudiés par les sciences formelles, les mathématiques), ou des phénomènes humains (étudiés par les sciences humaines : anthropologie, sociologie, économie, psychologie, etc.).
 - Une science se définit par sa **méthode** : **vérifier** des hypothèses de départ par des expérimentations (sciences de la nature), des démonstrations (sciences formelles), des enquêtes (sciences humaines).

@@ -8,7 +8,8 @@ title: Inconscient
 
 
 :::note[Définition simple]
-L'inconscient désigne l'ensemble des processus qui échappent à la **[conscience](/manuel/notions/conscience.md)**. Il peut s'agir de processus sociaux, physiologiques (biologiques, cérébraux) ou psychiques (mentaux). Dans ce dernier cas, ce sont des pensées, des souvenirs, des désirs ou des émotions qui influencent notre comportement sans que nous en soyons conscients.
+L'inconscient désigne l'ensemble des processus qui échappent à la **[conscience](/manuel/notions/conscience.md)**. Il peut s'agir de processus sociaux, physiologiques (biologiques, cérébraux) ou psychiques (mentaux). Dans ce dernier cas, ce sont des pensées, des souvenirs, des désirs ou des émotions qui influencent notre comportement sans que nous en soyons conscients.   
+➡ Voir la [**carte mentale sur l'inconscient**](https://www.profauda.fr/schemas/cartes/inconscient.html)
 :::
 
 :::tip[Définition approfondie]

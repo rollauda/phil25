@@ -19,9 +19,9 @@ Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète
 :::
 
 :::note[Cartes mentales]
-- [Le bonheur](https://www.profauda.fr/schemas/cartes/bonheur.html)
-- [Les désirs chez Épicure](https://www.profauda.fr/schemas/cartes/desirs-epicure.html)
-- [Le pendule de Schopenhauer](https://www.profauda.fr/schemas/cartes/pendule.png)
+➡  [Le bonheur](https://www.profauda.fr/schemas/cartes/bonheur.html)   
+➡  [Les désirs chez Épicure](https://www.profauda.fr/schemas/cartes/desirs-epicure.html)  
+➡  [Le pendule de Schopenhauer](https://www.profauda.fr/schemas/cartes/pendule.png)
 :::
 
 :::info[questions]

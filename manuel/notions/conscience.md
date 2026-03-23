@@ -12,13 +12,12 @@ title: Conscience
 :::
 
 :::tip[Définition approfondie]
+➡ Voir la [carte mentale](https://www.profauda.fr/schemas/cartes/conscience.html)   
 Du latin *cum*, « avec », et *scientia*, « savoir », la conscience désigne **un état mental qui s'accompagne de savoir**. La conscience est donc le fait de vivre quelque chose et d'en prendre conscience, c'est-à-dire de savoir qu'on est en train de vivre cette chose. Par exemple, « *Je suis conscient qu'il pleut* » signifie que je sais qu'il est en train de pleuvoir. À l'inverse, si je dors et donc que je suis inconscient, je ne sais pas qu'il pleut, je n'en suis pas conscient.   
 On distingue **différents types de conscience** :
 - la **conscience spontanée ou immédiate**, qui est tournée vers le monde extérieur : c'est le fait d'être éveillé, d'être présent au monde, de percevoir ce qu'il se passe autour de nous.
 - la **conscience réfléchie ou conscience de soi** : c'est le fait de savoir que l'on existe, et donc de pouvoir faire retour sur soi-même (pratiquer l'introspection), de se prendre pour objet de pensée (je sais que j'existe, je sais qui je suis).
 - la **conscience morale** : le fait de savoir ce qui est bien et ce qui est mal, source de la [raison pratique](/manuel/notions/raison) et de la responsabilité morale. 
-
--> Voir la [carte mentale](https://www.profauda.fr/schemas/cartes/conscience.html)
 :::
 
 :::info[Questions]
@@ -36,6 +35,7 @@ On distingue **différents types de conscience** :
 :::warning[problématiques, Grandes thèses et arguments vue en cours]
 - **[Leçon principale (n°4)](/docs/L4/accueil)**
   - **[Introduction](/docs/L4/0/intro). Qu'est-ce que l'identité personnelle et quel problème pose-t-elle ?** La conscience de soi est au cœur du problème de l'identité personnelle. Qu'est-ce qui fait de moi un être un et unique, distinct des autres ? Qu'est-ce qui fait que je suis toujours le même individu à travers le temps, malgré les changements physiques et psychologiques que je peux subir ? Le paradoxe du bateau de Thésée illustre cette question : si toutes les planches d'un bateau sont remplacées une à une, est-ce toujours le même bateau ? De même, si je change sans cesse, suis-je toujours la même personne ? 
+    - ➡ Voir la [carte mentale sur les caractéristiques du Moi](https://www.profauda.fr/schemas/cartes/moi.html)
   - **[1](/docs/L4/1/). La conscience de soi nous donne-t-elle une certitude absolue sur notre propre existence ?**. Selon [**René Descartes**](/docs/L4/1#je-pense-donc-je-suis), la conscience de soi est la source d'une certitude indubitable : « *Je pense, donc je suis* ». Tant que je doute, je suis conscient de douter, donc je suis conscient d'exister. Ma conscience de moi-même me prouve que j'existe en tant qu'être pensant. Cependant, cette certitude ne s'étend pas à mon corps ou au monde extérieur, qui peuvent être mis en doute. David Hume, de son côté, remet en question l'idée d'un moi-substance, que l'on pourrait saisir par la pensée et qui serait séparable de nos expériences sensibles : il affirme que ce que nous appelons le « moi » n'est qu'un faisceau de perceptions changeantes, sans substance permanente pour les porter.
   - **[2](/docs/L4/2/). Comment savoir qui je suis ?**. Pour répondre à cette interrogation, **[Blaise Pascal](/docs/L4/2/)** commence par poser une autre question : celui ou celle qui m'aime, qu'aime-t-il en moi ? Si ce sont des qualités physiques ou morales, elles peuvent changer ou disparaître, et cette personne, donc, ne m'aime pas moi. Mais derrière ces qualités, aucun moi ne se cache. Il est donc normal d'aimer une personne pour ses qualités périssables.  
   - **[3](/docs/L4/3/). Des pensées inconscientes peuvent-elles échapper à notre conscience ?**. Selon [**Sigmund Freud**](/docs/L4/3#32-le-moi-entre-le-ça-et-le-surmoi), la conscience n'est qu'une partie de notre psychisme. En dessous de la conscience se trouve l'inconscient, qui contient des désirs, des souvenirs et des pensées refoulées, c'est-à-dire des contenus mentaux qui ne sont pas accessibles à la conscience mais qui influencent  notre comportement. Voir la **[notion d'inconscient](/manuel/notions/inconscient)** pour plus de détails.

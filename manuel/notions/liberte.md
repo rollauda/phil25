@@ -21,7 +21,7 @@ Est libre une personne qui n'est pas soumise à des contraintes.
 
 La liberté est donc absence de contraintes, mais pas d'obligations.
 
--> Voir les repères conceptuels [*obligation – contrainte*](/manuel/Repères/obligation).  
+➡ Voir les repères conceptuels [*obligation – contrainte*](/manuel/Repères/obligation).  
 :::
 
  :::info[Questions]
@@ -40,7 +40,9 @@ La liberté est donc absence de contraintes, mais pas d'obligations.
 - [**Leçon principale (n°5)**](/docs/L5/accueil). **La question du libre-arbitre.**
    - **Définitions :** 
      - Les [**différents genres de liberté (selon Leibniz)**](/docs/L5/1/) : la **liberté de fait** (être *réellement* libre) s'oppose à la **liberté de droit** (avoir droit à certaines libertés civiles, permises par la loi). La liberté de fait se distingue en **liberté d'agir** (le pouvoir d'utiliser son corps) et **liberté de vouloir** (capacité à décider). Cette liberté de vouloir se sépare en **liberté morale** et **libre-arbitre** : la liberté morale consiste à vouloir ce qui est bon (sagesse), le libre-arbitre à vouloir sans être déterminé (et donc pouvoir vouloir aussi le mal).
+       - ➡ Voir la [**carte mentale sur les différents genres de liberté**](https://www.profauda.fr/schemas/cartes/liberte-leibniz.html)
      - [**Liberté et déterminisme**](/docs/L5/0/intro): . Le libre-arbitre est le pouvoir de décider : notre volonté est cause première de nos actions. On parle de déterminisme quand certaines causes entraînent des effets nécessaires, des effets qui ne pouvaient pas ne pas avoir lieu. Si le déterminisme est vrai, alors nos actions sont causées par des événements qui nous échappent, et nous ne sommes pas libres.
+       - ➡ Voir la [**carte mentale sur liberté et déterminisme**](https://www.profauda.fr/schemas/cartes/liberte-determinisme.html)
    - La [**thèse déterministe**](/docs/L5/2/) : **Nietzsche** et **Spinoza**  défendent l'idée que nous agissons toujours par nécessité. Pour Nietzsche, la [**nature**](/manuel/notions/nature.md) (l'instinct grégaire de conservation) agit à travers nous ; pour Spinoza, nous avons l'illusion d'agir librement car nous ne connaissons pas les causes qui nous déterminent (nos désirs).
    - Les [**différentes manières de défendre la liberté face au déterminisme**](/docs/L5/3/) :  
      - **Descartes** prouve la réalité du **libre-arbitre** à l'aide d'un exemple autobiographique (dans sa jeunesse, il tombait toujours amoureux de jeunes femmes qui louchent) : notre volonté peut vaincre les passions qui nous déterminent grâce à la réflexion ; savoir d'où provient un déterminisme corporel permet à la volonté de le refuser.

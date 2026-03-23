@@ -9,7 +9,7 @@ title: Langage
 
 :::note[Définition simple]
 Le langage est la capacité à exprimer une pensée au moyen d’un système de signes (paroles, mots, gestes, etc.).  On distingue en général le langage de la communication.  
--> Voir la [carte mentale](https://www.profauda.fr/schemas/cartes/langage.html).
+➡ Voir la [carte mentale sur la différence entre langage et communication](https://www.profauda.fr/schemas/cartes/langage.html).
 :::
 
 :::tip[Définition approfondie]
