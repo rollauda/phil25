@@ -29,7 +29,7 @@ Le bonheur (ou le fait d'être heureux) est un **état de satisfaction complète
   - [**Introduction**](/docs/L1/0/intro) : **Bonheur et chance**. Le bonheur est-il le fait du hasard ? Le bonheur dépend-il du sort, d'événements favorables et imprévisibles, ou bien repose-t-il plutôt sur la bonne façon de mener notre existence afin d'atteindre le souverain bien ?
   - [**1.**](/docs/L1/1) et **[2](/docs/L1/2)** : **Bonheur et raison**. Doit-on être raisonnable pour être heureux ? Le bonheur consiste-t-il dans une vie rationnelle et raisonnable, ou au contraire dans une vie déraisonnable, faite d'excès et de passion ?
   - [**2.1**](/docs/L1/2/2-1/2-1) : **Bonheur et liberté**. Peut-on tout faire afin d'être heureux ? Le bonheur consiste-t-il dans une vie de toute puissance, ou nous faisons tout ce que nous voulons ? Ou au contraire dans une vie ou nous limitons notre liberté, ou nous nous contentons de peu, et où nous acceptons notre sort ?
-- [**Leçon 4, Freud**](/docs/L4/3/) : comment être heureux si nous sommes soumis à des déterminismes inconscients et à une lutte inconsciente entre principe de plaisir et principe de réalité ?
+- [**Leçon 4, Freud**](/docs/L4/3/) : comment être heureux si nous sommes soumis à des déterminismes inconscients et à une lutte inconsciente entre principe de plaisir et principe de réalité ? 
 - [**Leçon 6, *L'Enfant Sauvage***](/docs/L6/0/intro) : peut-on être heureux sans culture, sans société, sans langage ? Le bonheur est-il un état naturel, ou est-il lié à la culture ?
 :::
 
