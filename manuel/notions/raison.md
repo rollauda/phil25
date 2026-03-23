@@ -12,7 +12,7 @@ title: Raison
 - réfléchir rationnellement, distinguer le vrai du faux (raison théorique) 
 - agir de manière raisonnable, distinguer le bien du mal (raison pratique)  
 
--> Voir la [carte mentale](https://www.profauda.fr/schemas/cartes/raison.html)
+➡ Voir la [carte mentale](https://www.profauda.fr/schemas/cartes/raison.html)
 :::
 
 :::tip[Définition approfondie]
