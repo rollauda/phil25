@@ -26,8 +26,8 @@ title: Accueil
 - [x] Nature : [Leçon 6](/docs/L6/accueil.md)
 - [x] Langage : [Leçon 6](/docs/L6/accueil.md)
 - [x] Technique : [Leçon 6](/docs/L6/accueil)
-- [ ] Art : [Leçon 7](/docs/L7/accueil.md)
-- [ ] Travail : [Leçon 7](/docs/L7/accueil.md)
+- [x] Art : [Leçon 7](/docs/L7/accueil.md)
+- [x] Travail : [Leçon 7](/docs/L7/accueil.md)
 - [ ] Justice
 - [ ] Devoir
 - [ ] État
