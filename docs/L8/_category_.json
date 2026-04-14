@@ -1,0 +1,8 @@
+{
+  "label": "L8 : La vérité",
+  "position": 10,
+  "link": {
+    "type": "doc",
+    "id": "accueil"
+  }
+}
