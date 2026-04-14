@@ -18,6 +18,7 @@ title: Accueil
 - [Leçon 7  – L'artiste travaille-t-il ?](/docs/L7/accueil.md)
    - [Complément – Qu'est-ce que le temps ?](/docs/L7/3/3-1/3-1)
    - [Complément – Quelles sont les fonctions de l’art ?](/docs/L7/C/complement)
+- [Leçon 8 – La vérité](/docs/L8/accueil.md)
 :::
 
 :::warning[Notions achevées]
@@ -32,9 +33,9 @@ title: Accueil
 - [x] Technique : [Leçon 6](/docs/L6/accueil)
 - [x] Art : [Leçon 7](/docs/L7/accueil.md)
 - [x] Travail : [Leçon 7](/docs/L7/accueil.md)
+- [ ] Vérité : [Leçon 8](/docs/L8/accueil.md)
 - [ ] Justice
 - [ ] Devoir
 - [ ] État
-- [ ] Vérité
 - [ ] Religion
 - [ ] Temps

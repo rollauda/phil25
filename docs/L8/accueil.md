@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: accueil
 ---
-# Leçon 8 : La vérité
+# Leçon 8 : Doit-on se soucier de la vérité ?
 
 - **Plan de la leçon** :
   - [1. Pas de vérité, mais des vérités ?](../L8/1/1.md)
