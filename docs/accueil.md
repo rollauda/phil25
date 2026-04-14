@@ -13,7 +13,11 @@ title: Accueil
 - [Leçon 4 – Suis-je celle ou celui que je pense être ?](/docs/L4/accueil.md)
 - [Leçon 5 – Sommes-nous libres ?](/docs/L5/accueil.md)
 - [Leçon 6 – Qu'est-ce qui nous fait humain ?](/docs/L6/accueil.md)
+   - [Complément – Les techniques animales](/docs/L6/2/2-1/2-1)
+   - [Complément – Les animaux parlent-ils ?](/docs/L6/3/3-3/3-3)
 - [Leçon 7  – L'artiste travaille-t-il ?](/docs/L7/accueil.md)
+   - [Complément – Qu'est-ce que le temps ?](/docs/L7/3/3-1/3-1)
+   - [Complément – Quelles sont les fonctions de l’art ?](/docs/L7/C/complement)
 :::
 
 :::warning[Notions achevées]
