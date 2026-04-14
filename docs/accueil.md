@@ -33,9 +33,9 @@ title: Accueil
 - [x] Technique : [Leçon 6](/docs/L6/accueil)
 - [x] Art : [Leçon 7](/docs/L7/accueil.md)
 - [x] Travail : [Leçon 7](/docs/L7/accueil.md)
+- [x] Temps : [Leçon 7](/docs/L7/3/3-1/3-1)
 - [ ] Vérité : [Leçon 8](/docs/L8/accueil.md)
 - [ ] Justice
 - [ ] Devoir
 - [ ] État
 - [ ] Religion
-- [ ] Temps
