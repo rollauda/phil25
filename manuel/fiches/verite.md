@@ -1,6 +1,5 @@
 ---
 title: "La vérité — fiche de révision"
-slug: /manuel/fiches/verite
 sidebar_position: 3
 description: "Fiche de révision et corrigés des exercices sur la vérité."
 tags: [fiches, verite]

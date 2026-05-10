@@ -19,6 +19,7 @@ title: Accueil
    - [Complément – Qu'est-ce que le temps ?](/docs/L7/3/3-1/3-1)
    - [Complément – Quelles sont les fonctions de l’art ?](/docs/L7/C/complement)
 - [Leçon 8 – Doit-on se soucier de la vérité ?](/docs/L8/accueil.md)
+   - [Complément – Les trois grandes éthiques](/docs/L8/3/3-1/3.1.md)
 :::
 
 :::warning[Notions achevées]
@@ -34,8 +35,8 @@ title: Accueil
 - [x] Art : [Leçon 7](/docs/L7/accueil.md)
 - [x] Travail : [Leçon 7](/docs/L7/accueil.md)
 - [x] Temps : [Leçon 7](/docs/L7/3/3-1/3-1)
-- [ ] Vérité : [Leçon 8](/docs/L8/accueil.md)
-- [ ] Devoir : [Leçon 8](/docs/L8/accueil.md)
+- [x] Vérité : [Leçon 8](/docs/L8/accueil.md)
+- [x] Devoir : [Leçon 8](/docs/L8/accueil.md)
 - [ ] Religion
 - [ ] Justice
 - [ ] État

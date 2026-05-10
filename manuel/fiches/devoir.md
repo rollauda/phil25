@@ -1,6 +1,5 @@
 ---
 title: "Le devoir — fiche de révision"
-slug: /manuel/fiches/devoir
 sidebar_position: 2
 description: "Fiche de révision et corrigés des exercices sur le devoir."
 tags: [fiches, devoir]
