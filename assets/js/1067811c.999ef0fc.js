@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaur_1=self.webpackChunkdocusaur_1||[]).push([[4880],{52804:e=>{e.exports=JSON.parse('{"tags":[{"label":"fiches","permalink":"/manuel/tags/fiches","count":2},{"label":"devoir","permalink":"/manuel/tags/devoir","count":1},{"label":"verite","permalink":"/manuel/tags/verite","count":1}]}')}}]);
