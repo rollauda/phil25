@@ -14,4 +14,5 @@ Il est complété tout au long de l'année, quand chaque leçon est terminée.
 - Les 17 notions du programme
 - Des synthèses des grands courants et grandes doctrines philosophique
 - Des fiches sur les repères conceptuels au programme
+- Quelques fiches de révision sur les dernières notions du programme étudiées en fin d'année
 :::
