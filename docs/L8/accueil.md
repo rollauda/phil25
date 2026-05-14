@@ -10,6 +10,7 @@ id: accueil
   - [3. Doit-on toujours dire la vérité ?](../L8/3/3.md)
 - **Perspectives** : La connaissance ; La morale et la politique
 - **Notions principales** : `LA VÉRITÉ`, `LE DEVOIR`
+- **Voir les fiches de synthèse** sur la [**vérité**](/manuel/fiches/verite) et le [**devoir**](/manuel/fiches/devoir)
 - *Notions complémentaires* : *`La raison`*, *`Le bonheur`*, *`La liberté`*
 - *Repères conceptuels* : vrai / probable / certain ; absolu / relatif ; subjectif / objectif
 - **Auteurs étudiés** : Pyrrhon, Descartes, Platon, Aristote, Popper, Kant, Constant
