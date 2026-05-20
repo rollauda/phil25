@@ -19,4 +19,4 @@ id: accueil
 - **Travaux** :
   - **Lire intégralement le *Criton* de Platon (traduction Dacier et Grou).**
   - **Compléter les deux fiches de travail (justice ; État).**
-  - **Étudier les deux fiches de révision (Justice ; État) et les fiches complémentaires (justice sociale ; désobéissance ; théories du contrat).**
+  - **Étudier les deux fiches de révision (Justice ; État) et les fiches complémentaires (justice sociale ; désobéissance).**
