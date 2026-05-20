@@ -29,7 +29,7 @@ title: Accueil
 :::warning[Notions achevées]
 - [x] Bonheur : [Leçon 1](/docs/L1/accueil.md)
 - [x] Raison : [Leçon 1](/docs/L1/accueil.md), [Leçon 2](/docs/L2/accueil.md)
-- [x] Science : [Leçon 3](/docs/L3/accueil.md)
+- [x] Science : [Leçon 3](/docs/L3/accueil.md), [Leçon 9](/docs/L9/accueil.md)
 - [x] Conscience : [Leçon 3](/docs/L3/accueil.md), [Leçon 4](/docs/L4/accueil.md)
 - [x] Inconscient : [Leçon 4](/docs/L4/accueil.md)
 - [x] Liberté : [Leçon 5](/docs/L5/accueil.md)
@@ -41,6 +41,6 @@ title: Accueil
 - [x] Temps : [Leçon 7](/docs/L7/3/3-1/3-1)
 - [x] Vérité : [Leçon 8](/docs/L8/accueil.md)
 - [x] Devoir : [Leçon 8](/docs/L8/accueil.md)
-- [x] Religion
-- [x] Justice
-- [x] État
+- [x] Religion : [Leçon 9](/docs/L9/accueil.md)
+- [x] Justice : [Leçon 10](/docs/L10/accueil.md)
+- [x] État : [Leçon 10](/docs/L10/accueil.md)
