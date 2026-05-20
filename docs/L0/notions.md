@@ -12,15 +12,15 @@ title: Tableau des notions
 | Bonheur | L1  | L4, L6, L7, L8  |
 | Conscience  | L3, L4 | L2, L6, L7  |
 | Devoir | L8  | L5  |
-| État  | ... | ...  |
+| État  | L10 | ...  |
 | Inconscient | L4   | ...  |
-| Justice   | ... | L3, L6  |
+| Justice   | L10 | L3, L6  |
 | Langage | L6  | L2  |
 | Liberté  | L5 | L1, L3, L6, L7, L8  |
 | Nature | L6   | L2, L3, L5, L7 |
 | Raison  | L1, L2 | L4, L5, L6, L8  |
-| Religion | ...   | L5  |
-| Science | L3 |  ... |
+| Religion | L9   | L5  |
+| Science | L3, L9 |  ... |
 | Technique | L6  | L2, L7  |
 | Temps | L7 | ...  |
 | Travail | L7 | ...  |

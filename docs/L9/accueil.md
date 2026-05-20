@@ -12,7 +12,7 @@ id: accueil
 - **Notions principales** : `LA SCIENCE`, `LA RELIGION`
 - **Voir les fiches de synthèse** sur la [**science**](/manuel/fiches/science) et la [**religion**](/manuel/fiches/religion)
 - *Notions complémentaires* : *`La vérité`*, *`La raison`*
-- *Repères conceptuels* : croire / savoir
+- *Repères conceptuels* : *[croire / savoir](/manuel/Repères/croire)*
 - **Méthode** : dissertation (analyse de sujet, plan détaillé)
 - **Auteurs étudiés** : Darwin, Spinoza, Russell, Nietzsche
 - **Travaux** : entraînement bac – rédiger une introduction et faire un plan détaillé à partir des documents de la leçon

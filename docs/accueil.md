@@ -20,6 +20,10 @@ title: Accueil
    - [Complément – Quelles sont les fonctions de l’art ?](/docs/L7/C/complement)
 - [Leçon 8 – Doit-on se soucier de la vérité ?](/docs/L8/accueil.md)
    - [Complément – Les trois grandes éthiques](/docs/L8/3/3-1/3.1.md)
+ - [Leçon 9 – Les vérités religieuses et scientifiques sont-elles concurrentes ?](/docs/L9/accueil.md)
+ - [Leçon 10 – Le *Criton* de Platon — Comment agir de manière juste ?](/docs/L10/accueil.md)
+   - [Complément – La justice sociale](/docs/L10/4/4.md)
+   - [Complément – Obéir ou désobéir ?](/docs/L10/5/5.md)
 :::
 
 :::warning[Notions achevées]
@@ -37,6 +41,6 @@ title: Accueil
 - [x] Temps : [Leçon 7](/docs/L7/3/3-1/3-1)
 - [x] Vérité : [Leçon 8](/docs/L8/accueil.md)
 - [x] Devoir : [Leçon 8](/docs/L8/accueil.md)
-- [ ] Religion
-- [ ] Justice
-- [ ] État
+- [x] Religion
+- [x] Justice
+- [x] État
