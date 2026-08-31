@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/philo.svg',
 
   // Set the production url of your site here
-  url: 'https://philo.profauda.fr',
+  url: 'https://phil26.profauda.fr',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For custom domain, use '/'
   baseUrl: '/',
